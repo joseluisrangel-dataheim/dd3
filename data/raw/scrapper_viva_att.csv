@@ -1,0 +1,5166 @@
+id,attribute_name,attribute_value
+1,Estatus:,Preventa
+1,Metros Cuadrados:,62-172m2
+1,Recámara(s):,2
+1,Baños:,2
+1,Medio Baños:,—
+1,Garage:,1
+1,Año de Construccion:,—
+1,Superficie Total:,—
+1,Entrega:,—
+2,Estatus:,Preventa
+2,Metros Cuadrados:,64-127m2
+2,Recámara(s):,1-3
+2,Baños:,1-2
+2,Medio Baños:,1
+2,Garage:,1-2
+2,Año de Construccion:,2022
+2,Superficie Total:,—
+2,Entrega:,enero 2023
+3,Recámara(s):,1
+3,Baños:,1
+3,Garage:,1
+3,Vendedor(a):,Inmobiliaria
+4,Recámara(s):,3
+4,Baños:,3
+4,Garage:,2
+4,Vendedor(a):,Inmobiliaria
+5,Recámara(s):,2
+5,Baños:,2
+5,Garage:,2
+5,Vendedor(a):,Inmobiliaria
+6,Recámara(s):,1
+6,Baños:,1
+6,Terreno:,43m2
+6,Vendedor(a):,Inmobiliaria
+7,Recámara(s):,1
+7,Baños:,1
+7,Terreno:,52m2
+7,Vendedor(a):,Inmobiliaria
+8,Recámara(s):,1
+8,Baños:,1
+8,Vendedor(a):,Inmobiliaria
+9,Recámara(s):,1
+9,Baños:,1
+9,Vendedor(a):,Inmobiliaria
+10,Recámara(s):,2
+10,Baños:,1
+10,Vendedor(a):,Inmobiliaria
+11,Recámara(s):,2
+11,Baños:,2
+11,Garage:,2
+11,Vendedor(a):,Inmobiliaria
+12,Recámara(s):,2
+12,Baños:,2
+12,Garage:,1
+12,Terreno:,60m2
+12,Vendedor(a):,Inmobiliaria
+13,Recámara(s):,2
+13,Baños:,2
+13,Garage:,2
+13,Terreno:,133m2
+13,Vendedor(a):,Inmobiliaria
+14,Recámara(s):,2
+14,Baños:,3
+14,Garage:,2
+14,Terreno:,143m2
+14,Vendedor(a):,Inmobiliaria
+15,Recámara(s):,2
+15,Baños:,1
+15,Vendedor(a):,Inmobiliaria
+16,Recámara(s):,2
+16,Baños:,1
+16,Vendedor(a):,Inmobiliaria
+17,Recámara(s):,2
+17,Baños:,2
+17,Vendedor(a):,Inmobiliaria
+18,Recámara(s):,2
+18,Baños:,2
+18,Garage:,2
+18,Terreno:,99m2
+18,Vendedor(a):,Inmobiliaria
+19,Recámara(s):,1
+19,Baños:,1
+19,Terreno:,34m2
+19,Vendedor(a):,Inmobiliaria
+20,Recámara(s):,2
+20,Baños:,2
+20,Garage:,1
+20,Vendedor(a):,Inmobiliaria
+22,Recámara(s):,3
+22,Baños:,1
+22,Medio Baños:,1
+22,Garage:,1
+22,Terreno:,98m2
+22,Vendedor(a):,Inmobiliaria
+23,Recámara(s):,2
+23,Baños:,2
+23,Medio Baños:,1
+23,Garage:,2
+23,Vendedor(a):,Inmobiliaria
+24,Estatus:,Preventa
+24,Metros Cuadrados:,62-172m2
+24,Recámara(s):,2
+24,Baños:,2
+24,Medio Baños:,—
+24,Garage:,1
+24,Año de Construccion:,—
+24,Superficie Total:,—
+24,Entrega:,—
+25,Estatus:,Preventa
+25,Metros Cuadrados:,64-127m2
+25,Recámara(s):,1-3
+25,Baños:,1-2
+25,Medio Baños:,1
+25,Garage:,1-2
+25,Año de Construccion:,2022
+25,Superficie Total:,—
+25,Entrega:,enero 2023
+26,Recámara(s):,3
+26,Baños:,3
+26,Garage:,3
+26,Terreno:,425m2
+26,Vendedor(a):,Inmobiliaria
+27,Recámara(s):,3
+27,Baños:,3
+27,Garage:,1
+27,Vendedor(a):,Inmobiliaria
+28,Recámara(s):,2
+28,Baños:,1
+28,Garage:,1
+28,Vendedor(a):,Inmobiliaria
+29,Recámara(s):,1
+29,Baños:,1
+29,Terreno:,42m2
+29,Vendedor(a):,Inmobiliaria
+30,Recámara(s):,2
+30,Baños:,1
+30,Garage:,1
+30,Terreno:,79m2
+30,Vendedor(a):,Inmobiliaria
+31,Recámara(s):,1
+31,Baños:,1
+31,Medio Baños:,1
+31,Garage:,2
+31,Terreno:,135m2
+31,Vendedor(a):,Inmobiliaria
+32,Recámara(s):,1
+32,Baños:,1
+32,Medio Baños:,1
+32,Terreno:,93m2
+32,Vendedor(a):,Inmobiliaria
+33,Recámara(s):,2
+33,Baños:,2
+33,Garage:,1
+33,Terreno:,85m2
+33,Vendedor(a):,Inmobiliaria
+34,Recámara(s):,3
+34,Baños:,3
+34,Garage:,2
+34,Vendedor(a):,Inmobiliaria
+35,Recámara(s):,1
+35,Baños:,1
+35,Vendedor(a):,Inmobiliaria
+36,Recámara(s):,2
+36,Baños:,2
+36,Terreno:,59m2
+36,Vendedor(a):,Inmobiliaria
+37,Recámara(s):,3
+37,Baños:,2
+37,Garage:,1
+37,Terreno:,103m2
+37,Vendedor(a):,Inmobiliaria
+38,Recámara(s):,2
+38,Baños:,2
+38,Garage:,1
+38,Vendedor(a):,Inmobiliaria
+39,Recámara(s):,2
+39,Baños:,1
+39,Garage:,1
+39,Vendedor(a):,Inmobiliaria
+40,Recámara(s):,1
+40,Baños:,1
+40,Terreno:,63m2
+40,Vendedor(a):,Inmobiliaria
+41,Recámara(s):,3
+41,Baños:,2
+41,Garage:,1
+41,Terreno:,86m2
+41,Vendedor(a):,Inmobiliaria
+42,Recámara(s):,3
+42,Baños:,2
+42,Garage:,2
+42,Terreno:,270m2
+42,Vendedor(a):,Inmobiliaria
+43,Recámara(s):,3
+43,Baños:,3
+43,Garage:,2
+43,Terreno:,190m2
+43,Vendedor(a):,Inmobiliaria
+44,Recámara(s):,2
+44,Baños:,2
+44,Garage:,2
+44,Terreno:,160m2
+44,Vendedor(a):,Inmobiliaria
+45,Recámara(s):,1
+45,Baños:,1
+45,Terreno:,64m2
+45,Vendedor(a):,Inmobiliaria
+46,Estatus:,Preventa
+46,Metros Cuadrados:,62-172m2
+46,Recámara(s):,2
+46,Baños:,2
+46,Medio Baños:,—
+46,Garage:,1
+46,Año de Construccion:,—
+46,Superficie Total:,—
+46,Entrega:,—
+47,Estatus:,Preventa
+47,Metros Cuadrados:,64-127m2
+47,Recámara(s):,1-3
+47,Baños:,1-2
+47,Medio Baños:,1
+47,Garage:,1-2
+47,Año de Construccion:,2022
+47,Superficie Total:,—
+47,Entrega:,enero 2023
+48,Recámara(s):,1
+48,Baños:,1
+48,Vendedor(a):,Inmobiliaria
+49,Recámara(s):,2
+49,Baños:,2
+49,Vendedor(a):,Inmobiliaria
+50,Recámara(s):,1
+50,Baños:,1
+50,Vendedor(a):,Inmobiliaria
+51,Recámara(s):,1
+51,Baños:,1
+51,Terreno:,56m2
+51,Vendedor(a):,Inmobiliaria
+52,Recámara(s):,1
+52,Baños:,1
+52,Terreno:,70m2
+52,Vendedor(a):,Inmobiliaria
+53,Recámara(s):,2
+53,Baños:,1
+53,Terreno:,74m2
+53,Vendedor(a):,Inmobiliaria
+54,Recámara(s):,2
+54,Baños:,2
+54,Terreno:,184m2
+54,Vendedor(a):,Inmobiliaria
+55,Recámara(s):,2
+55,Baños:,2
+55,Terreno:,158m2
+55,Vendedor(a):,Inmobiliaria
+56,Recámara(s):,2
+56,Baños:,2
+56,Terreno:,78m2
+56,Vendedor(a):,Inmobiliaria
+57,Recámara(s):,2
+57,Baños:,2
+57,Terreno:,120m2
+57,Vendedor(a):,Inmobiliaria
+58,Recámara(s):,2
+58,Baños:,2
+58,Terreno:,132m2
+58,Vendedor(a):,Inmobiliaria
+59,Recámara(s):,2
+59,Baños:,2
+59,Terreno:,83m2
+59,Vendedor(a):,Inmobiliaria
+60,Recámara(s):,2
+60,Baños:,2
+60,Terreno:,93m2
+60,Vendedor(a):,Inmobiliaria
+61,Recámara(s):,2
+61,Baños:,2
+61,Terreno:,103m2
+61,Vendedor(a):,Inmobiliaria
+62,Recámara(s):,2
+62,Baños:,2
+62,Terreno:,109m2
+62,Vendedor(a):,Inmobiliaria
+63,Recámara(s):,3
+63,Baños:,3
+63,Garage:,1
+63,Terreno:,145m2
+63,Vendedor(a):,Inmobiliaria
+64,Recámara(s):,3
+64,Baños:,2
+64,Garage:,2
+64,Terreno:,110m2
+64,Vendedor(a):,Inmobiliaria
+65,Recámara(s):,3
+65,Baños:,1
+65,Medio Baños:,2
+65,Terreno:,120m2
+66,Recámara(s):,3
+66,Baños:,2
+66,Garage:,2
+66,Terreno:,100m2
+66,Vendedor(a):,Inmobiliaria
+67,Recámara(s):,3
+67,Baños:,2
+67,Garage:,2
+67,Terreno:,180m2
+68,Recámara(s):,3
+68,Baños:,2
+68,Garage:,2
+68,Terreno:,100m2
+68,Vendedor(a):,Inmobiliaria
+69,Recámara(s):,1
+69,Baños:,1
+69,Medio Baños:,1
+69,Terreno:,42m2
+69,Vendedor(a):,Inmobiliaria
+69,Disponibilidad:,21/09/22
+70,Recámara(s):,2
+70,Baños:,2
+70,Garage:,1
+70,Vendedor(a):,Inmobiliaria
+71,Estatus:,Preventa
+71,Metros Cuadrados:,62-172m2
+71,Recámara(s):,2
+71,Baños:,2
+71,Medio Baños:,—
+71,Garage:,1
+71,Año de Construccion:,—
+71,Superficie Total:,—
+71,Entrega:,—
+72,Estatus:,Preventa
+72,Metros Cuadrados:,64-127m2
+72,Recámara(s):,1-3
+72,Baños:,1-2
+72,Medio Baños:,1
+72,Garage:,1-2
+72,Año de Construccion:,2022
+72,Superficie Total:,—
+72,Entrega:,enero 2023
+73,Recámara(s):,2
+73,Baños:,2
+73,Medio Baños:,1
+73,Garage:,2
+73,Vendedor(a):,Inmobiliaria
+74,Recámara(s):,2
+74,Baños:,2
+74,Garage:,2
+74,Vendedor(a):,Inmobiliaria
+75,Recámara(s):,2
+75,Baños:,2
+75,Garage:,2
+75,Terreno:,99m2
+75,Vendedor(a):,Inmobiliaria
+76,Recámara(s):,1
+76,Baños:,1
+76,Vendedor(a):,Inmobiliaria
+77,Recámara(s):,3
+77,Baños:,2
+77,Garage:,2
+77,Terreno:,110m2
+78,Recámara(s):,3
+78,Baños:,2
+78,Garage:,2
+78,Terreno:,100m2
+78,Vendedor(a):,Inmobiliaria
+79,Recámara(s):,3
+79,Baños:,2
+79,Garage:,2
+79,Terreno:,100m2
+80,Recámara(s):,2
+80,Baños:,2
+80,Medio Baños:,1
+80,Garage:,2
+80,Vendedor(a):,Inmobiliaria
+81,Recámara(s):,2
+81,Baños:,2
+81,Garage:,1
+81,Vendedor(a):,Inmobiliaria
+82,Recámara(s):,2
+82,Baños:,2
+82,Garage:,1
+82,Vendedor(a):,Inmobiliaria
+83,Recámara(s):,3
+83,Baños:,2
+83,Garage:,2
+83,Vendedor(a):,Inmobiliaria
+84,Recámara(s):,2
+84,Baños:,2
+84,Garage:,2
+84,Vendedor(a):,Inmobiliaria
+85,Recámara(s):,3
+85,Baños:,2
+85,Garage:,1
+85,Vendedor(a):,Inmobiliaria
+86,Recámara(s):,2
+86,Baños:,2
+86,Garage:,1
+86,Terreno:,82m2
+86,Vendedor(a):,Inmobiliaria
+87,Recámara(s):,2
+87,Baños:,2
+87,Garage:,1
+87,Terreno:,64m2
+87,Vendedor(a):,Inmobiliaria
+88,Recámara(s):,2
+88,Baños:,2
+88,Garage:,1
+88,Terreno:,96m2
+88,Vendedor(a):,Inmobiliaria
+89,Recámara(s):,2
+89,Baños:,2
+89,Garage:,1
+89,Terreno:,86m2
+89,Vendedor(a):,Inmobiliaria
+90,Recámara(s):,2
+90,Baños:,2
+90,Garage:,1
+90,Terreno:,98m2
+90,Vendedor(a):,Inmobiliaria
+91,Recámara(s):,2
+91,Baños:,2
+91,Garage:,1
+91,Terreno:,125m2
+91,Vendedor(a):,Inmobiliaria
+92,Recámara(s):,2
+92,Baños:,2
+92,Garage:,1
+92,Terreno:,172m2
+92,Vendedor(a):,Inmobiliaria
+93,Recámara(s):,2
+93,Baños:,2
+93,Garage:,1
+93,Terreno:,77m2
+93,Vendedor(a):,Inmobiliaria
+94,Recámara(s):,2
+94,Baños:,2
+94,Garage:,1
+94,Terreno:,62m2
+94,Vendedor(a):,Inmobiliaria
+95,Recámara(s):,3
+95,Baños:,2
+95,Medio Baños:,1
+95,Garage:,2
+95,Terreno:,180m2
+95,Vendedor(a):,Inmobiliaria
+96,Estatus:,Preventa
+96,Metros Cuadrados:,62-172m2
+96,Recámara(s):,2
+96,Baños:,2
+96,Medio Baños:,—
+96,Garage:,1
+96,Año de Construccion:,—
+96,Superficie Total:,—
+96,Entrega:,—
+97,Estatus:,Preventa
+97,Metros Cuadrados:,64-127m2
+97,Recámara(s):,1-3
+97,Baños:,1-2
+97,Medio Baños:,1
+97,Garage:,1-2
+97,Año de Construccion:,2022
+97,Superficie Total:,—
+97,Entrega:,enero 2023
+98,Recámara(s):,1
+98,Baños:,1
+98,Vendedor(a):,Inmobiliaria
+99,Recámara(s):,2
+99,Baños:,2
+99,Garage:,1
+99,Terreno:,90m2
+99,Vendedor(a):,Inmobiliaria
+100,Recámara(s):,2
+100,Baños:,2
+100,Garage:,2
+100,Vendedor(a):,Inmobiliaria
+101,Recámara(s):,2
+101,Baños:,2
+101,Garage:,2
+101,Vendedor(a):,Inmobiliaria
+102,Recámara(s):,3
+102,Baños:,2
+102,Garage:,2
+102,Terreno:,96m2
+102,Vendedor(a):,Inmobiliaria
+103,Recámara(s):,1
+103,Baños:,1
+103,Terreno:,37m2
+103,Vendedor(a):,Inmobiliaria
+104,Recámara(s):,3
+104,Baños:,2
+104,Garage:,1
+104,Terreno:,127m2
+104,Vendedor(a):,Inmobiliaria
+105,Recámara(s):,2
+105,Baños:,2
+105,Vendedor(a):,Inmobiliaria
+106,Recámara(s):,3
+106,Baños:,3
+106,Medio Baños:,1
+106,Garage:,2
+106,Vendedor(a):,Inmobiliaria
+107,Recámara(s):,1
+107,Baños:,1
+107,Medio Baños:,1
+107,Garage:,2
+107,Vendedor(a):,Inmobiliaria
+108,Recámara(s):,2
+108,Baños:,2
+108,Garage:,2
+108,Vendedor(a):,Inmobiliaria
+109,Recámara(s):,2
+109,Baños:,2
+109,Garage:,1
+109,Terreno:,100m2
+109,Vendedor(a):,Inmobiliaria
+110,Recámara(s):,3
+110,Baños:,3
+110,Garage:,1
+110,Terreno:,145m2
+110,Vendedor(a):,Inmobiliaria
+111,Recámara(s):,3
+111,Baños:,3
+111,Garage:,2
+111,Terreno:,185m2
+111,Vendedor(a):,Inmobiliaria
+112,Recámara(s):,3
+112,Baños:,3
+112,Garage:,2
+112,Terreno:,178m2
+112,Vendedor(a):,Inmobiliaria
+113,Recámara(s):,2
+113,Baños:,2
+113,Garage:,1
+113,Terreno:,135m2
+113,Vendedor(a):,Inmobiliaria
+114,Recámara(s):,2
+114,Baños:,2
+114,Garage:,2
+114,Terreno:,79m2
+114,Vendedor(a):,Inmobiliaria
+115,Recámara(s):,2
+115,Baños:,2
+115,Garage:,1
+115,Vendedor(a):,Inmobiliaria
+116,Recámara(s):,2
+116,Baños:,2
+116,Garage:,1
+116,Terreno:,90m2
+116,Vendedor(a):,Inmobiliaria
+117,Recámara(s):,2
+117,Baños:,3
+117,Garage:,2
+117,Vendedor(a):,Inmobiliaria
+118,Recámara(s):,2
+118,Baños:,2
+118,Medio Baños:,1
+118,Garage:,1
+118,Vendedor(a):,Inmobiliaria
+119,Recámara(s):,1
+119,Baños:,1
+119,Garage:,1
+119,Terreno:,41m2
+119,Vendedor(a):,Inmobiliaria
+120,Recámara(s):,1
+120,Baños:,1
+120,Garage:,1
+120,Terreno:,38m2
+120,Vendedor(a):,Inmobiliaria
+121,Estatus:,Preventa
+121,Metros Cuadrados:,62-172m2
+121,Recámara(s):,2
+121,Baños:,2
+121,Medio Baños:,—
+121,Garage:,1
+121,Año de Construccion:,—
+121,Superficie Total:,—
+121,Entrega:,—
+122,Estatus:,Preventa
+122,Metros Cuadrados:,64-127m2
+122,Recámara(s):,1-3
+122,Baños:,1-2
+122,Medio Baños:,1
+122,Garage:,1-2
+122,Año de Construccion:,2022
+122,Superficie Total:,—
+122,Entrega:,enero 2023
+123,Recámara(s):,1
+123,Baños:,1
+123,Medio Baños:,1
+123,Terreno:,93m2
+123,Vendedor(a):,Inmobiliaria
+124,Recámara(s):,2
+124,Baños:,2
+124,Garage:,2
+124,Terreno:,99m2
+124,Vendedor(a):,Inmobiliaria
+125,Recámara(s):,2
+125,Baños:,2
+125,Medio Baños:,1
+125,Garage:,2
+125,Vendedor(a):,Inmobiliaria
+126,Recámara(s):,2
+126,Baños:,1
+126,Garage:,1
+126,Terreno:,58m2
+126,Vendedor(a):,Inmobiliaria
+127,Recámara(s):,2
+127,Baños:,2
+127,Garage:,1
+127,Terreno:,102m2
+127,Vendedor(a):,Inmobiliaria
+128,Recámara(s):,1
+128,Baños:,1
+128,Garage:,1
+128,Vendedor(a):,Inmobiliaria
+129,Recámara(s):,2
+129,Baños:,2
+129,Garage:,1
+129,Vendedor(a):,Inmobiliaria
+130,Recámara(s):,1
+130,Baños:,1
+130,Vendedor(a):,Inmobiliaria
+131,Recámara(s):,1
+131,Baños:,1
+131,Vendedor(a):,Inmobiliaria
+132,Recámara(s):,2
+132,Baños:,2
+132,Medio Baños:,1
+132,Garage:,2
+132,Vendedor(a):,Inmobiliaria
+133,Recámara(s):,1
+133,Baños:,1
+133,Garage:,1
+133,Vendedor(a):,Inmobiliaria
+134,Recámara(s):,2
+134,Baños:,1
+134,Garage:,1
+134,Terreno:,67m2
+134,Vendedor(a):,Inmobiliaria
+135,Recámara(s):,2
+135,Baños:,2
+135,Garage:,1
+135,Vendedor(a):,Inmobiliaria
+136,Recámara(s):,2
+136,Baños:,1
+136,Vendedor(a):,Inmobiliaria
+137,Recámara(s):,2
+137,Baños:,2
+137,Garage:,1
+137,Terreno:,97m2
+137,Vendedor(a):,Inmobiliaria
+138,Recámara(s):,1
+138,Baños:,1
+138,Terreno:,60m2
+138,Vendedor(a):,Inmobiliaria
+139,Recámara(s):,3
+139,Baños:,2
+139,Medio Baños:,1
+139,Terreno:,130m2
+139,Vendedor(a):,Inmobiliaria
+140,Recámara(s):,3
+140,Baños:,2
+140,Terreno:,86m2
+140,Vendedor(a):,Inmobiliaria
+141,Recámara(s):,1
+141,Baños:,1
+141,Garage:,1
+141,Terreno:,63m2
+141,Vendedor(a):,Inmobiliaria
+142,Recámara(s):,2
+142,Baños:,2
+142,Garage:,2
+142,Terreno:,93m2
+142,Vendedor(a):,Inmobiliaria
+143,Recámara(s):,1
+143,Baños:,1
+143,Terreno:,32m2
+143,Vendedor(a):,Inmobiliaria
+144,Recámara(s):,2
+144,Baños:,2
+144,Terreno:,74m2
+144,Vendedor(a):,Inmobiliaria
+145,Recámara(s):,2
+145,Baños:,2
+145,Terreno:,83m2
+145,Vendedor(a):,Inmobiliaria
+146,Estatus:,Preventa
+146,Metros Cuadrados:,62-172m2
+146,Recámara(s):,2
+146,Baños:,2
+146,Medio Baños:,—
+146,Garage:,1
+146,Año de Construccion:,—
+146,Superficie Total:,—
+146,Entrega:,—
+147,Estatus:,Preventa
+147,Metros Cuadrados:,64-127m2
+147,Recámara(s):,1-3
+147,Baños:,1-2
+147,Medio Baños:,1
+147,Garage:,1-2
+147,Año de Construccion:,2022
+147,Superficie Total:,—
+147,Entrega:,enero 2023
+148,Recámara(s):,1
+148,Baños:,1
+148,Vendedor(a):,Inmobiliaria
+149,Recámara(s):,2
+149,Baños:,1
+149,Vendedor(a):,Inmobiliaria
+150,Recámara(s):,1
+150,Baños:,1
+150,Terreno:,52m2
+150,Vendedor(a):,Inmobiliaria
+151,Recámara(s):,2
+151,Baños:,2
+151,Terreno:,84m2
+151,Vendedor(a):,Inmobiliaria
+152,Recámara(s):,1
+152,Baños:,1
+152,Terreno:,40m2
+152,Vendedor(a):,Inmobiliaria
+153,Recámara(s):,1
+153,Baños:,1
+153,Garage:,1
+153,Terreno:,53m2
+153,Vendedor(a):,Inmobiliaria
+154,Recámara(s):,2
+154,Baños:,2
+154,Garage:,2
+154,Terreno:,89m2
+154,Vendedor(a):,Inmobiliaria
+155,Recámara(s):,1
+155,Baños:,1
+155,Garage:,1
+155,Terreno:,58m2
+155,Vendedor(a):,Inmobiliaria
+156,Recámara(s):,2
+156,Baños:,1
+156,Garage:,1
+156,Terreno:,65m2
+156,Vendedor(a):,Inmobiliaria
+157,Recámara(s):,2
+157,Baños:,2
+157,Terreno:,30m2
+157,Vendedor(a):,Inmobiliaria
+158,Recámara(s):,2
+158,Baños:,2
+158,Garage:,1
+158,Terreno:,98m2
+158,Vendedor(a):,Inmobiliaria
+159,Recámara(s):,1
+159,Baños:,1
+159,Garage:,1
+159,Terreno:,41m2
+159,Vendedor(a):,Inmobiliaria
+160,Recámara(s):,1
+160,Baños:,1
+160,Garage:,1
+160,Vendedor(a):,Inmobiliaria
+161,Recámara(s):,2
+161,Baños:,2
+161,Garage:,1
+161,Vendedor(a):,Inmobiliaria
+162,Recámara(s):,3
+162,Baños:,2
+162,Garage:,2
+162,Terreno:,180m2
+162,Vendedor(a):,Inmobiliaria
+163,Recámara(s):,2
+163,Baños:,2
+163,Garage:,2
+163,Terreno:,93m2
+163,Vendedor(a):,Inmobiliaria
+164,Recámara(s):,3
+164,Baños:,2
+164,Garage:,2
+164,Terreno:,180m2
+164,Vendedor(a):,Inmobiliaria
+165,Recámara(s):,1
+165,Baños:,1
+165,Terreno:,52m2
+165,Vendedor(a):,Inmobiliaria
+166,Recámara(s):,2
+166,Baños:,2
+166,Garage:,2
+166,Vendedor(a):,Inmobiliaria
+167,Recámara(s):,1
+167,Baños:,1
+167,Garage:,1
+167,Terreno:,41m2
+167,Vendedor(a):,Inmobiliaria
+168,Recámara(s):,1
+168,Baños:,1
+168,Garage:,1
+168,Terreno:,38m2
+168,Vendedor(a):,Inmobiliaria
+169,Recámara(s):,1
+169,Baños:,1
+169,Terreno:,37m2
+169,Vendedor(a):,Inmobiliaria
+169,Disponibilidad:,31/01/23
+170,Recámara(s):,2
+170,Baños:,2
+170,Garage:,1
+170,Vendedor(a):,Inmobiliaria
+171,Estatus:,Preventa
+171,Metros Cuadrados:,62-172m2
+171,Recámara(s):,2
+171,Baños:,2
+171,Medio Baños:,—
+171,Garage:,1
+171,Año de Construccion:,—
+171,Superficie Total:,—
+171,Entrega:,—
+172,Estatus:,Preventa
+172,Metros Cuadrados:,64-127m2
+172,Recámara(s):,1-3
+172,Baños:,1-2
+172,Medio Baños:,1
+172,Garage:,1-2
+172,Año de Construccion:,2022
+172,Superficie Total:,—
+172,Entrega:,enero 2023
+173,Recámara(s):,2
+173,Baños:,2
+173,Garage:,1
+173,Vendedor(a):,Inmobiliaria
+174,Recámara(s):,3
+174,Baños:,1
+174,Medio Baños:,1
+174,Garage:,1
+174,Terreno:,98m2
+174,Vendedor(a):,Inmobiliaria
+175,Recámara(s):,2
+175,Baños:,2
+175,Vendedor(a):,Inmobiliaria
+176,Recámara(s):,3
+176,Baños:,2
+176,Garage:,1
+176,Terreno:,120m2
+177,Recámara(s):,2
+177,Baños:,2
+177,Garage:,1
+177,Terreno:,89m2
+177,Vendedor(a):,Inmobiliaria
+178,Recámara(s):,2
+178,Baños:,2
+178,Garage:,2
+178,Terreno:,194m2
+178,Vendedor(a):,Inmobiliaria
+179,Recámara(s):,2
+179,Baños:,2
+179,Medio Baños:,1
+179,Garage:,1
+179,Vendedor(a):,Inmobiliaria
+180,Recámara(s):,2
+180,Baños:,2
+180,Garage:,1
+180,Terreno:,51m2
+180,Vendedor(a):,Inmobiliaria
+181,Recámara(s):,1
+181,Baños:,1
+181,Medio Baños:,1
+181,Garage:,1
+181,Terreno:,39m2
+181,Vendedor(a):,Inmobiliaria
+182,Recámara(s):,2
+182,Baños:,2
+182,Garage:,1
+182,Terreno:,51m2
+182,Vendedor(a):,Inmobiliaria
+183,Recámara(s):,3
+183,Baños:,2
+183,Medio Baños:,1
+183,Garage:,2
+183,Terreno:,168m2
+183,Vendedor(a):,Inmobiliaria
+184,Recámara(s):,3
+184,Baños:,2
+184,Medio Baños:,1
+184,Garage:,2
+184,Vendedor(a):,Inmobiliaria
+185,Recámara(s):,2
+185,Baños:,2
+185,Garage:,2
+185,Terreno:,91m2
+185,Vendedor(a):,Inmobiliaria
+186,Recámara(s):,2
+186,Baños:,2
+186,Terreno:,62m2
+186,Vendedor(a):,Inmobiliaria
+187,Recámara(s):,3
+187,Baños:,2
+187,Vendedor(a):,Inmobiliaria
+188,Recámara(s):,3
+188,Baños:,2
+188,Garage:,1
+188,Terreno:,137m2
+188,Vendedor(a):,Inmobiliaria
+189,Recámara(s):,2
+189,Baños:,4+
+189,Garage:,2
+189,Vendedor(a):,Inmobiliaria
+190,Recámara(s):,2
+190,Baños:,2
+190,Garage:,1
+190,Terreno:,90m2
+190,Vendedor(a):,Inmobiliaria
+191,Recámara(s):,2
+191,Baños:,2
+191,Garage:,1
+191,Terreno:,56m2
+191,Vendedor(a):,Inmobiliaria
+192,Recámara(s):,2
+192,Baños:,2
+192,Garage:,1
+192,Terreno:,70m2
+192,Vendedor(a):,Inmobiliaria
+193,Recámara(s):,2
+193,Baños:,2
+193,Vendedor(a):,Inmobiliaria
+194,Recámara(s):,2
+194,Baños:,2
+194,Garage:,2
+194,Vendedor(a):,Inmobiliaria
+195,Recámara(s):,2
+195,Baños:,2
+195,Garage:,2
+195,Terreno:,106m2
+195,Vendedor(a):,Inmobiliaria
+196,Estatus:,Preventa
+196,Metros Cuadrados:,62-172m2
+196,Recámara(s):,2
+196,Baños:,2
+196,Medio Baños:,—
+196,Garage:,1
+196,Año de Construccion:,—
+196,Superficie Total:,—
+196,Entrega:,—
+197,Estatus:,Preventa
+197,Metros Cuadrados:,64-127m2
+197,Recámara(s):,1-3
+197,Baños:,1-2
+197,Medio Baños:,1
+197,Garage:,1-2
+197,Año de Construccion:,2022
+197,Superficie Total:,—
+197,Entrega:,enero 2023
+198,Recámara(s):,1
+198,Baños:,1
+198,Vendedor(a):,Inmobiliaria
+199,Recámara(s):,3
+199,Baños:,3
+199,Garage:,2
+199,Vendedor(a):,Inmobiliaria
+200,Recámara(s):,1
+200,Baños:,1
+200,Garage:,1
+200,Vendedor(a):,Inmobiliaria
+201,Recámara(s):,3
+201,Baños:,2
+201,Garage:,1
+201,Terreno:,109m2
+201,Vendedor(a):,Inmobiliaria
+202,Recámara(s):,1
+202,Baños:,1
+202,Terreno:,37m2
+202,Vendedor(a):,Inmobiliaria
+203,Recámara(s):,2
+203,Baños:,2
+203,Terreno:,132m2
+203,Vendedor(a):,Inmobiliaria
+204,Recámara(s):,2
+204,Baños:,2
+204,Terreno:,76m2
+204,Vendedor(a):,Inmobiliaria
+205,Recámara(s):,2
+205,Baños:,3
+205,Terreno:,202m2
+205,Vendedor(a):,Inmobiliaria
+206,Recámara(s):,2
+206,Baños:,2
+206,Garage:,2
+206,Terreno:,109m2
+206,Vendedor(a):,Inmobiliaria
+207,Recámara(s):,3
+207,Baños:,3
+207,Medio Baños:,1
+207,Garage:,2
+207,Vendedor(a):,Inmobiliaria
+208,Recámara(s):,3
+208,Baños:,2
+208,Vendedor(a):,Inmobiliaria
+209,Recámara(s):,2
+209,Baños:,2
+209,Garage:,1
+209,Vendedor(a):,Inmobiliaria
+210,Recámara(s):,2
+210,Baños:,2
+210,Garage:,1
+210,Vendedor(a):,Inmobiliaria
+211,Recámara(s):,1
+211,Baños:,1
+211,Garage:,1
+211,Vendedor(a):,Inmobiliaria
+212,Recámara(s):,2
+212,Baños:,2
+212,Garage:,1
+212,Vendedor(a):,Inmobiliaria
+213,Recámara(s):,3
+213,Baños:,3
+213,Medio Baños:,1
+213,Garage:,2
+213,Vendedor(a):,Inmobiliaria
+214,Recámara(s):,3
+214,Baños:,3
+214,Medio Baños:,1
+214,Garage:,2
+214,Vendedor(a):,Inmobiliaria
+215,Recámara(s):,2
+215,Baños:,2
+215,Medio Baños:,1
+215,Garage:,2
+215,Terreno:,128m2
+215,Vendedor(a):,Inmobiliaria
+216,Recámara(s):,3
+216,Baños:,3
+216,Garage:,4+
+216,Vendedor(a):,Inmobiliaria
+217,Recámara(s):,3
+217,Baños:,2
+217,Garage:,2
+217,Terreno:,100m2
+218,Recámara(s):,2
+218,Baños:,2
+218,Terreno:,126m2
+218,Vendedor(a):,Inmobiliaria
+219,Recámara(s):,1
+219,Baños:,1
+219,Terreno:,56m2
+219,Vendedor(a):,Inmobiliaria
+220,Recámara(s):,2
+220,Baños:,2
+220,Terreno:,65m2
+220,Vendedor(a):,Inmobiliaria
+221,Estatus:,Preventa
+221,Metros Cuadrados:,62-172m2
+221,Recámara(s):,2
+221,Baños:,2
+221,Medio Baños:,—
+221,Garage:,1
+221,Año de Construccion:,—
+221,Superficie Total:,—
+221,Entrega:,—
+222,Estatus:,Preventa
+222,Metros Cuadrados:,64-127m2
+222,Recámara(s):,1-3
+222,Baños:,1-2
+222,Medio Baños:,1
+222,Garage:,1-2
+222,Año de Construccion:,2022
+222,Superficie Total:,—
+222,Entrega:,enero 2023
+223,Recámara(s):,2
+223,Baños:,1
+223,Garage:,1
+223,Vendedor(a):,Inmobiliaria
+224,Recámara(s):,2
+224,Baños:,2
+224,Garage:,1
+224,Vendedor(a):,Inmobiliaria
+225,Recámara(s):,2
+225,Baños:,1
+225,Vendedor(a):,Inmobiliaria
+226,Recámara(s):,1
+226,Baños:,1
+226,Terreno:,43m2
+226,Vendedor(a):,Inmobiliaria
+227,Recámara(s):,1
+227,Baños:,1
+227,Terreno:,63m2
+227,Vendedor(a):,Inmobiliaria
+228,Recámara(s):,2
+228,Baños:,2
+228,Terreno:,63m2
+228,Vendedor(a):,Inmobiliaria
+229,Recámara(s):,3
+229,Baños:,3
+229,Terreno:,141m2
+229,Vendedor(a):,Inmobiliaria
+230,Recámara(s):,2
+230,Baños:,2
+230,Terreno:,167m2
+230,Vendedor(a):,Inmobiliaria
+231,Recámara(s):,3
+231,Baños:,2
+231,Medio Baños:,1
+231,Terreno:,145m2
+231,Vendedor(a):,Inmobiliaria
+232,Recámara(s):,3
+232,Baños:,2
+232,Medio Baños:,1
+232,Terreno:,162m2
+232,Vendedor(a):,Inmobiliaria
+233,Recámara(s):,1
+233,Baños:,1
+233,Terreno:,58m2
+233,Vendedor(a):,Inmobiliaria
+234,Recámara(s):,1
+234,Baños:,1
+234,Terreno:,91m2
+234,Vendedor(a):,Inmobiliaria
+235,Recámara(s):,2
+235,Baños:,2
+235,Terreno:,122m2
+235,Vendedor(a):,Inmobiliaria
+236,Recámara(s):,2
+236,Baños:,2
+236,Medio Baños:,1
+236,Terreno:,208m2
+236,Vendedor(a):,Inmobiliaria
+237,Recámara(s):,3
+237,Baños:,2
+237,Medio Baños:,1
+237,Terreno:,208m2
+237,Vendedor(a):,Inmobiliaria
+238,Recámara(s):,2
+238,Baños:,2
+238,Terreno:,146m2
+238,Vendedor(a):,Inmobiliaria
+239,Recámara(s):,2
+239,Baños:,2
+239,Terreno:,97m2
+239,Vendedor(a):,Inmobiliaria
+240,Recámara(s):,4
+240,Baños:,2
+240,Terreno:,192m2
+240,Vendedor(a):,Inmobiliaria
+241,Recámara(s):,3
+241,Baños:,2
+241,Terreno:,179m2
+241,Vendedor(a):,Inmobiliaria
+242,Recámara(s):,1
+242,Baños:,1
+242,Garage:,1
+242,Terreno:,41m2
+242,Vendedor(a):,Inmobiliaria
+243,Recámara(s):,1
+243,Baños:,1
+243,Garage:,1
+243,Terreno:,56m2
+243,Vendedor(a):,Inmobiliaria
+244,Recámara(s):,2
+244,Baños:,2
+244,Garage:,2
+244,Vendedor(a):,Inmobiliaria
+245,Recámara(s):,2
+245,Baños:,2
+245,Garage:,1
+245,Vendedor(a):,Inmobiliaria
+246,Estatus:,Preventa
+246,Metros Cuadrados:,62-172m2
+246,Recámara(s):,2
+246,Baños:,2
+246,Medio Baños:,—
+246,Garage:,1
+246,Año de Construccion:,—
+246,Superficie Total:,—
+246,Entrega:,—
+247,Estatus:,Preventa
+247,Metros Cuadrados:,64-127m2
+247,Recámara(s):,1-3
+247,Baños:,1-2
+247,Medio Baños:,1
+247,Garage:,1-2
+247,Año de Construccion:,2022
+247,Superficie Total:,—
+247,Entrega:,enero 2023
+248,Recámara(s):,3
+248,Baños:,3
+248,Garage:,2
+248,Terreno:,180m2
+249,Recámara(s):,2
+249,Baños:,2
+249,Garage:,1
+249,Vendedor(a):,Inmobiliaria
+250,Recámara(s):,2
+250,Baños:,2
+250,Garage:,1
+250,Terreno:,107m2
+250,Vendedor(a):,Inmobiliaria
+251,Recámara(s):,2
+251,Baños:,2
+251,Garage:,2
+251,Terreno:,74m2
+251,Vendedor(a):,Inmobiliaria
+252,Recámara(s):,3
+252,Baños:,2
+252,Garage:,1
+252,Terreno:,208m2
+252,Vendedor(a):,Inmobiliaria
+253,Recámara(s):,2
+253,Baños:,2
+253,Garage:,1
+253,Terreno:,103m2
+253,Vendedor(a):,Inmobiliaria
+254,Recámara(s):,2
+254,Baños:,2
+254,Garage:,2
+254,Terreno:,89m2
+254,Vendedor(a):,Inmobiliaria
+255,Recámara(s):,1
+255,Baños:,1
+255,Garage:,1
+255,Terreno:,116m2
+255,Vendedor(a):,Inmobiliaria
+256,Recámara(s):,2
+256,Baños:,2
+256,Garage:,2
+256,Terreno:,161m2
+256,Vendedor(a):,Inmobiliaria
+257,Recámara(s):,3
+257,Baños:,2
+257,Garage:,2
+257,Terreno:,202m2
+257,Vendedor(a):,Inmobiliaria
+258,Recámara(s):,3
+258,Baños:,2
+258,Garage:,2
+258,Terreno:,114m2
+258,Vendedor(a):,Inmobiliaria
+259,Recámara(s):,2
+259,Baños:,2
+259,Garage:,1
+259,Terreno:,77m2
+259,Vendedor(a):,Inmobiliaria
+260,Recámara(s):,3
+260,Baños:,2
+260,Garage:,1
+260,Terreno:,109m2
+260,Vendedor(a):,Inmobiliaria
+261,Recámara(s):,2
+261,Baños:,2
+261,Garage:,1
+261,Terreno:,79m2
+261,Vendedor(a):,Inmobiliaria
+262,Recámara(s):,2
+262,Baños:,2
+262,Terreno:,83m2
+262,Vendedor(a):,Inmobiliaria
+263,Recámara(s):,2
+263,Baños:,2
+263,Garage:,1
+263,Terreno:,80m2
+263,Vendedor(a):,Inmobiliaria
+264,Recámara(s):,2
+264,Baños:,2
+264,Garage:,2
+264,Terreno:,83m2
+264,Vendedor(a):,Inmobiliaria
+265,Recámara(s):,2
+265,Baños:,2
+265,Garage:,1
+265,Terreno:,68m2
+265,Vendedor(a):,Inmobiliaria
+266,Recámara(s):,2
+266,Baños:,2
+266,Garage:,2
+266,Terreno:,90m2
+266,Vendedor(a):,Inmobiliaria
+267,Recámara(s):,2
+267,Baños:,2
+267,Garage:,2
+267,Terreno:,122m2
+267,Vendedor(a):,Inmobiliaria
+268,Estatus:,Preventa
+268,Metros Cuadrados:,62-172m2
+268,Recámara(s):,2
+268,Baños:,2
+268,Medio Baños:,—
+268,Garage:,1
+268,Año de Construccion:,—
+268,Superficie Total:,—
+268,Entrega:,—
+269,Estatus:,Preventa
+269,Metros Cuadrados:,64-127m2
+269,Recámara(s):,1-3
+269,Baños:,1-2
+269,Medio Baños:,1
+269,Garage:,1-2
+269,Año de Construccion:,2022
+269,Superficie Total:,—
+269,Entrega:,enero 2023
+270,Recámara(s):,2
+270,Baños:,2
+270,Garage:,2
+270,Terreno:,117m2
+270,Vendedor(a):,Inmobiliaria
+271,Recámara(s):,1
+271,Baños:,1
+271,Garage:,1
+271,Terreno:,63m2
+271,Vendedor(a):,Inmobiliaria
+272,Recámara(s):,2
+272,Baños:,2
+272,Terreno:,102m2
+272,Vendedor(a):,Inmobiliaria
+273,Recámara(s):,2
+273,Baños:,2
+273,Garage:,1
+273,Terreno:,117m2
+273,Vendedor(a):,Inmobiliaria
+274,Recámara(s):,2
+274,Baños:,3
+274,Garage:,2
+274,Terreno:,125m2
+274,Vendedor(a):,Inmobiliaria
+275,Recámara(s):,1
+275,Baños:,1
+275,Garage:,1
+275,Terreno:,33m2
+275,Vendedor(a):,Inmobiliaria
+276,Recámara(s):,3
+276,Baños:,2
+276,Terreno:,177m2
+276,Vendedor(a):,Inmobiliaria
+277,Recámara(s):,2
+277,Baños:,2
+277,Garage:,2
+277,Terreno:,128m2
+277,Vendedor(a):,Inmobiliaria
+278,Recámara(s):,2
+278,Baños:,2
+278,Garage:,1
+278,Terreno:,113m2
+278,Vendedor(a):,Inmobiliaria
+279,Recámara(s):,2
+279,Baños:,2
+279,Garage:,2
+279,Terreno:,90m2
+279,Vendedor(a):,Inmobiliaria
+280,Recámara(s):,3
+280,Baños:,2
+280,Garage:,1
+280,Terreno:,91m2
+280,Vendedor(a):,Inmobiliaria
+281,Recámara(s):,3
+281,Baños:,2
+281,Garage:,2
+281,Terreno:,110m2
+281,Vendedor(a):,Inmobiliaria
+282,Recámara(s):,3
+282,Baños:,3
+282,Garage:,2
+282,Terreno:,284m2
+282,Vendedor(a):,Inmobiliaria
+283,Recámara(s):,2
+283,Baños:,2
+283,Garage:,2
+283,Terreno:,93m2
+283,Vendedor(a):,Inmobiliaria
+284,Recámara(s):,3
+284,Baños:,2
+284,Garage:,2
+284,Terreno:,93m2
+284,Vendedor(a):,Inmobiliaria
+285,Recámara(s):,1
+285,Baños:,1
+285,Terreno:,37m2
+285,Vendedor(a):,Inmobiliaria
+286,Recámara(s):,2
+286,Baños:,2
+286,Garage:,2
+286,Terreno:,140m2
+286,Vendedor(a):,Inmobiliaria
+287,Recámara(s):,3
+287,Baños:,2
+287,Garage:,2
+287,Terreno:,93m2
+287,Vendedor(a):,Inmobiliaria
+288,Recámara(s):,3
+288,Baños:,2
+288,Garage:,2
+288,Terreno:,114m2
+288,Vendedor(a):,Inmobiliaria
+289,Recámara(s):,1
+289,Baños:,1
+289,Terreno:,29m2
+289,Vendedor(a):,Inmobiliaria
+290,Estatus:,Preventa
+290,Metros Cuadrados:,62-172m2
+290,Recámara(s):,2
+290,Baños:,2
+290,Medio Baños:,—
+290,Garage:,1
+290,Año de Construccion:,—
+290,Superficie Total:,—
+290,Entrega:,—
+291,Estatus:,Preventa
+291,Metros Cuadrados:,64-127m2
+291,Recámara(s):,1-3
+291,Baños:,1-2
+291,Medio Baños:,1
+291,Garage:,1-2
+291,Año de Construccion:,2022
+291,Superficie Total:,—
+291,Entrega:,enero 2023
+292,Recámara(s):,2
+292,Baños:,2
+292,Garage:,1
+292,Terreno:,87m2
+292,Vendedor(a):,Inmobiliaria
+293,Recámara(s):,3
+293,Baños:,2
+293,Garage:,2
+293,Terreno:,114m2
+293,Vendedor(a):,Inmobiliaria
+294,Recámara(s):,1
+294,Baños:,1
+294,Garage:,1
+294,Terreno:,53m2
+294,Vendedor(a):,Inmobiliaria
+295,Recámara(s):,3
+295,Baños:,3
+295,Garage:,2
+295,Terreno:,143m2
+295,Vendedor(a):,Inmobiliaria
+296,Recámara(s):,2
+296,Baños:,1
+296,Garage:,1
+296,Terreno:,65m2
+296,Vendedor(a):,Inmobiliaria
+297,Recámara(s):,2
+297,Baños:,2
+297,Garage:,1
+297,Terreno:,65m2
+297,Vendedor(a):,Inmobiliaria
+298,Recámara(s):,3
+298,Baños:,3
+298,Garage:,2
+298,Terreno:,184m2
+298,Vendedor(a):,Inmobiliaria
+299,Recámara(s):,1
+299,Baños:,1
+299,Terreno:,50m2
+299,Vendedor(a):,Inmobiliaria
+300,Recámara(s):,2
+300,Baños:,2
+300,Garage:,1
+300,Terreno:,90m2
+300,Vendedor(a):,Inmobiliaria
+301,Recámara(s):,3
+301,Baños:,3
+301,Garage:,2
+301,Terreno:,125m2
+301,Vendedor(a):,Inmobiliaria
+302,Recámara(s):,3
+302,Baños:,2
+302,Garage:,2
+302,Terreno:,162m2
+302,Vendedor(a):,Inmobiliaria
+303,Recámara(s):,2
+303,Baños:,2
+303,Garage:,2
+303,Terreno:,90m2
+303,Vendedor(a):,Inmobiliaria
+304,Recámara(s):,3
+304,Baños:,2
+304,Garage:,1
+304,Terreno:,86m2
+304,Vendedor(a):,Inmobiliaria
+305,Recámara(s):,1
+305,Baños:,2
+305,Garage:,1
+305,Terreno:,70m2
+305,Vendedor(a):,Inmobiliaria
+306,Recámara(s):,2
+306,Baños:,1
+306,Terreno:,90m2
+306,Vendedor(a):,Inmobiliaria
+307,Recámara(s):,2
+307,Baños:,2
+307,Garage:,1
+307,Terreno:,110m2
+307,Vendedor(a):,Inmobiliaria
+308,Recámara(s):,2
+308,Baños:,1
+308,Garage:,1
+308,Terreno:,110m2
+308,Vendedor(a):,Inmobiliaria
+309,Recámara(s):,3
+309,Baños:,2
+309,Garage:,2
+309,Terreno:,115m2
+309,Vendedor(a):,Inmobiliaria
+310,Recámara(s):,2
+310,Baños:,2
+310,Garage:,1
+310,Terreno:,103m2
+310,Vendedor(a):,Inmobiliaria
+311,Recámara(s):,2
+311,Baños:,2
+311,Garage:,2
+311,Terreno:,99m2
+311,Vendedor(a):,Inmobiliaria
+312,Estatus:,Preventa
+312,Metros Cuadrados:,62-172m2
+312,Recámara(s):,2
+312,Baños:,2
+312,Medio Baños:,—
+312,Garage:,1
+312,Año de Construccion:,—
+312,Superficie Total:,—
+312,Entrega:,—
+313,Estatus:,Preventa
+313,Metros Cuadrados:,64-127m2
+313,Recámara(s):,1-3
+313,Baños:,1-2
+313,Medio Baños:,1
+313,Garage:,1-2
+313,Año de Construccion:,2022
+313,Superficie Total:,—
+313,Entrega:,enero 2023
+314,Recámara(s):,3
+314,Baños:,2
+314,Garage:,2
+314,Terreno:,213m2
+314,Vendedor(a):,Inmobiliaria
+315,Recámara(s):,2
+315,Baños:,2
+315,Garage:,1
+315,Terreno:,129m2
+315,Vendedor(a):,Inmobiliaria
+316,Recámara(s):,2
+316,Baños:,2
+316,Garage:,2
+316,Terreno:,89m2
+316,Vendedor(a):,Inmobiliaria
+317,Recámara(s):,1
+317,Baños:,1
+317,Garage:,1
+317,Terreno:,70m2
+317,Vendedor(a):,Inmobiliaria
+318,Recámara(s):,1
+318,Baños:,1
+318,Terreno:,47m2
+318,Vendedor(a):,Inmobiliaria
+319,Recámara(s):,3
+319,Baños:,2
+319,Garage:,2
+319,Terreno:,245m2
+319,Vendedor(a):,Inmobiliaria
+320,Recámara(s):,1
+320,Baños:,1
+320,Terreno:,58m2
+320,Vendedor(a):,Inmobiliaria
+321,Recámara(s):,2
+321,Baños:,2
+321,Terreno:,74m2
+321,Vendedor(a):,Inmobiliaria
+322,Recámara(s):,2
+322,Baños:,2
+322,Garage:,2
+322,Terreno:,168m2
+322,Vendedor(a):,Inmobiliaria
+323,Recámara(s):,2
+323,Baños:,2
+323,Garage:,1
+323,Terreno:,85m2
+323,Vendedor(a):,Inmobiliaria
+324,Recámara(s):,2
+324,Baños:,3
+324,Garage:,1
+324,Terreno:,112m2
+324,Vendedor(a):,Inmobiliaria
+325,Recámara(s):,1
+325,Baños:,1
+325,Garage:,1
+325,Terreno:,41m2
+325,Vendedor(a):,Inmobiliaria
+326,Recámara(s):,3
+326,Baños:,3
+326,Garage:,1
+326,Terreno:,149m2
+326,Vendedor(a):,Inmobiliaria
+327,Recámara(s):,2
+327,Baños:,2
+327,Garage:,1
+327,Terreno:,96m2
+327,Vendedor(a):,Inmobiliaria
+328,Recámara(s):,3
+328,Baños:,3
+328,Garage:,1
+328,Terreno:,135m2
+328,Vendedor(a):,Inmobiliaria
+329,Recámara(s):,2
+329,Baños:,2
+329,Garage:,1
+329,Terreno:,91m2
+329,Vendedor(a):,Inmobiliaria
+330,Recámara(s):,2
+330,Baños:,2
+330,Garage:,2
+330,Terreno:,117m2
+330,Vendedor(a):,Inmobiliaria
+331,Recámara(s):,1
+331,Baños:,1
+331,Garage:,1
+331,Terreno:,63m2
+331,Vendedor(a):,Inmobiliaria
+332,Recámara(s):,2
+332,Baños:,2
+332,Garage:,2
+332,Terreno:,127m2
+332,Vendedor(a):,Inmobiliaria
+333,Recámara(s):,3
+333,Baños:,3
+333,Garage:,2
+333,Terreno:,200m2
+333,Vendedor(a):,Inmobiliaria
+334,Estatus:,Preventa
+334,Metros Cuadrados:,62-172m2
+334,Recámara(s):,2
+334,Baños:,2
+334,Medio Baños:,—
+334,Garage:,1
+334,Año de Construccion:,—
+334,Superficie Total:,—
+334,Entrega:,—
+335,Estatus:,Preventa
+335,Metros Cuadrados:,64-127m2
+335,Recámara(s):,1-3
+335,Baños:,1-2
+335,Medio Baños:,1
+335,Garage:,1-2
+335,Año de Construccion:,2022
+335,Superficie Total:,—
+335,Entrega:,enero 2023
+336,Recámara(s):,1
+336,Baños:,1
+336,Garage:,1
+336,Terreno:,60m2
+336,Vendedor(a):,Inmobiliaria
+337,Recámara(s):,3
+337,Baños:,3
+337,Garage:,1
+337,Terreno:,163m2
+337,Vendedor(a):,Inmobiliaria
+338,Recámara(s):,2
+338,Baños:,2
+338,Terreno:,77m2
+338,Vendedor(a):,Inmobiliaria
+339,Recámara(s):,1
+339,Baños:,1
+339,Garage:,1
+339,Terreno:,39m2
+339,Vendedor(a):,Inmobiliaria
+340,Recámara(s):,1
+340,Baños:,1
+340,Terreno:,58m2
+340,Vendedor(a):,Inmobiliaria
+341,Recámara(s):,1
+341,Baños:,1
+341,Garage:,1
+341,Terreno:,64m2
+341,Vendedor(a):,Inmobiliaria
+342,Recámara(s):,1
+342,Baños:,1
+342,Garage:,1
+342,Terreno:,47m2
+342,Vendedor(a):,Inmobiliaria
+343,Recámara(s):,3
+343,Baños:,2
+343,Garage:,2
+343,Terreno:,115m2
+343,Vendedor(a):,Inmobiliaria
+344,Recámara(s):,3
+344,Baños:,2
+344,Garage:,2
+344,Terreno:,187m2
+344,Vendedor(a):,Inmobiliaria
+345,Recámara(s):,2
+345,Baños:,2
+345,Garage:,1
+345,Terreno:,129m2
+345,Vendedor(a):,Inmobiliaria
+346,Recámara(s):,2
+346,Baños:,1
+346,Terreno:,76m2
+346,Vendedor(a):,Inmobiliaria
+347,Recámara(s):,2
+347,Baños:,3
+347,Garage:,1
+347,Terreno:,100m2
+347,Vendedor(a):,Inmobiliaria
+348,Recámara(s):,3
+348,Baños:,4+
+348,Garage:,2
+348,Vendedor(a):,Inmobiliaria
+349,Recámara(s):,3
+349,Baños:,3
+349,Medio Baños:,1
+349,Garage:,2
+349,Vendedor(a):,Inmobiliaria
+350,Recámara(s):,3
+350,Baños:,2
+350,Garage:,1
+350,Vendedor(a):,Inmobiliaria
+351,Recámara(s):,3
+351,Baños:,2
+351,Garage:,1
+351,Vendedor(a):,Inmobiliaria
+352,Recámara(s):,2
+352,Baños:,2
+352,Garage:,2
+352,Vendedor(a):,Inmobiliaria
+353,Recámara(s):,3
+353,Baños:,3
+353,Medio Baños:,1
+353,Garage:,2
+353,Vendedor(a):,Inmobiliaria
+354,Recámara(s):,3
+354,Baños:,3
+354,Garage:,2
+354,Vendedor(a):,Inmobiliaria
+355,Recámara(s):,3
+355,Baños:,3
+355,Medio Baños:,1
+355,Garage:,2
+355,Vendedor(a):,Inmobiliaria
+356,Estatus:,Preventa
+356,Metros Cuadrados:,62-172m2
+356,Recámara(s):,2
+356,Baños:,2
+356,Medio Baños:,—
+356,Garage:,1
+356,Año de Construccion:,—
+356,Superficie Total:,—
+356,Entrega:,—
+357,Estatus:,Preventa
+357,Metros Cuadrados:,64-127m2
+357,Recámara(s):,1-3
+357,Baños:,1-2
+357,Medio Baños:,1
+357,Garage:,1-2
+357,Año de Construccion:,2022
+357,Superficie Total:,—
+357,Entrega:,enero 2023
+358,Recámara(s):,2
+358,Baños:,2
+358,Garage:,1
+358,Terreno:,90m2
+358,Vendedor(a):,Inmobiliaria
+359,Recámara(s):,2
+359,Baños:,2
+359,Garage:,2
+359,Vendedor(a):,Inmobiliaria
+360,Recámara(s):,3
+360,Baños:,3
+360,Medio Baños:,1
+360,Garage:,2
+360,Vendedor(a):,Inmobiliaria
+361,Recámara(s):,2
+361,Baños:,1
+361,Garage:,1
+361,Terreno:,70m2
+361,Vendedor(a):,Inmobiliaria
+362,Recámara(s):,1
+362,Baños:,1
+362,Vendedor(a):,Inmobiliaria
+363,Recámara(s):,3
+363,Baños:,3
+363,Garage:,2
+363,Terreno:,230m2
+363,Vendedor(a):,Inmobiliaria
+364,Recámara(s):,2
+364,Baños:,2
+364,Garage:,2
+364,Terreno:,229m2
+364,Vendedor(a):,Inmobiliaria
+365,Recámara(s):,2
+365,Baños:,2
+365,Medio Baños:,1
+365,Garage:,2
+365,Terreno:,130m2
+365,Vendedor(a):,Inmobiliaria
+366,Recámara(s):,1
+366,Baños:,1
+366,Medio Baños:,1
+366,Garage:,1
+366,Terreno:,117m2
+366,Vendedor(a):,Inmobiliaria
+367,Recámara(s):,2
+367,Baños:,2
+367,Garage:,2
+367,Terreno:,125m2
+367,Vendedor(a):,Inmobiliaria
+368,Recámara(s):,2
+368,Baños:,2
+368,Medio Baños:,1
+368,Garage:,2
+368,Terreno:,143m2
+368,Vendedor(a):,Inmobiliaria
+369,Recámara(s):,2
+369,Baños:,2
+369,Medio Baños:,1
+369,Garage:,2
+369,Terreno:,144m2
+369,Vendedor(a):,Inmobiliaria
+370,Recámara(s):,1
+370,Baños:,1
+370,Terreno:,37m2
+370,Vendedor(a):,Inmobiliaria
+371,Recámara(s):,1
+371,Baños:,1
+371,Terreno:,43m2
+371,Vendedor(a):,Inmobiliaria
+372,Recámara(s):,3
+372,Baños:,2
+372,Garage:,2
+372,Terreno:,252m2
+372,Vendedor(a):,Inmobiliaria
+373,Recámara(s):,3
+373,Baños:,2
+373,Garage:,2
+373,Terreno:,129m2
+373,Vendedor(a):,Inmobiliaria
+374,Recámara(s):,2
+374,Baños:,2
+374,Garage:,2
+374,Terreno:,107m2
+374,Vendedor(a):,Inmobiliaria
+375,Recámara(s):,2
+375,Baños:,2
+375,Garage:,2
+375,Terreno:,154m2
+375,Vendedor(a):,Inmobiliaria
+376,Recámara(s):,3
+376,Baños:,2
+376,Medio Baños:,1
+376,Garage:,2
+376,Terreno:,145m2
+376,Vendedor(a):,Inmobiliaria
+377,Recámara(s):,2
+377,Baños:,2
+377,Garage:,2
+377,Terreno:,75m2
+377,Vendedor(a):,Inmobiliaria
+378,Estatus:,Preventa
+378,Metros Cuadrados:,62-172m2
+378,Recámara(s):,2
+378,Baños:,2
+378,Medio Baños:,—
+378,Garage:,1
+378,Año de Construccion:,—
+378,Superficie Total:,—
+378,Entrega:,—
+379,Estatus:,Preventa
+379,Metros Cuadrados:,64-127m2
+379,Recámara(s):,1-3
+379,Baños:,1-2
+379,Medio Baños:,1
+379,Garage:,1-2
+379,Año de Construccion:,2022
+379,Superficie Total:,—
+379,Entrega:,enero 2023
+380,Recámara(s):,1
+380,Baños:,1
+380,Garage:,1
+380,Terreno:,42m2
+380,Vendedor(a):,Inmobiliaria
+381,Recámara(s):,1
+381,Baños:,1
+381,Medio Baños:,1
+381,Garage:,1
+381,Terreno:,38m2
+381,Vendedor(a):,Inmobiliaria
+382,Recámara(s):,2
+382,Baños:,2
+382,Garage:,1
+382,Terreno:,93m2
+382,Vendedor(a):,Inmobiliaria
+383,Recámara(s):,2
+383,Baños:,2
+383,Garage:,1
+383,Terreno:,97m2
+383,Vendedor(a):,Inmobiliaria
+384,Recámara(s):,2
+384,Baños:,2
+384,Garage:,1
+384,Terreno:,65m2
+384,Vendedor(a):,Inmobiliaria
+385,Recámara(s):,1
+385,Baños:,1
+385,Garage:,1
+385,Vendedor(a):,Inmobiliaria
+386,Recámara(s):,1
+386,Baños:,1
+386,Garage:,1
+386,Vendedor(a):,Inmobiliaria
+387,Recámara(s):,1
+387,Baños:,1
+387,Garage:,1
+387,Vendedor(a):,Inmobiliaria
+388,Recámara(s):,2
+388,Baños:,2
+388,Garage:,1
+388,Vendedor(a):,Inmobiliaria
+389,Recámara(s):,2
+389,Baños:,2
+389,Garage:,1
+389,Terreno:,120m2
+389,Vendedor(a):,Inmobiliaria
+390,Recámara(s):,1
+390,Baños:,1
+390,Vendedor(a):,Inmobiliaria
+391,Recámara(s):,2
+391,Baños:,2
+391,Vendedor(a):,Inmobiliaria
+392,Recámara(s):,3
+392,Baños:,2
+392,Vendedor(a):,Inmobiliaria
+393,Recámara(s):,1
+393,Baños:,1
+393,Terreno:,60m2
+393,Vendedor(a):,Inmobiliaria
+394,Recámara(s):,3
+394,Baños:,2
+394,Garage:,1
+394,Terreno:,86m2
+394,Vendedor(a):,Inmobiliaria
+395,Recámara(s):,1
+395,Baños:,1
+395,Terreno:,42m2
+395,Vendedor(a):,Inmobiliaria
+396,Recámara(s):,1
+396,Baños:,1
+396,Vendedor(a):,Inmobiliaria
+397,Recámara(s):,1
+397,Baños:,1
+397,Terreno:,58m2
+397,Vendedor(a):,Inmobiliaria
+398,Recámara(s):,1
+398,Baños:,1
+398,Terreno:,58m2
+398,Vendedor(a):,Inmobiliaria
+399,Recámara(s):,3
+399,Baños:,3
+399,Garage:,1
+399,Terreno:,145m2
+399,Vendedor(a):,Inmobiliaria
+400,Estatus:,Preventa
+400,Metros Cuadrados:,62-172m2
+400,Recámara(s):,2
+400,Baños:,2
+400,Medio Baños:,—
+400,Garage:,1
+400,Año de Construccion:,—
+400,Superficie Total:,—
+400,Entrega:,—
+401,Estatus:,Preventa
+401,Metros Cuadrados:,64-127m2
+401,Recámara(s):,1-3
+401,Baños:,1-2
+401,Medio Baños:,1
+401,Garage:,1-2
+401,Año de Construccion:,2022
+401,Superficie Total:,—
+401,Entrega:,enero 2023
+402,Recámara(s):,1
+402,Baños:,1
+402,Garage:,1
+402,Terreno:,42m2
+402,Vendedor(a):,Inmobiliaria
+403,Recámara(s):,1
+403,Baños:,1
+403,Garage:,1
+403,Vendedor(a):,Inmobiliaria
+404,Recámara(s):,3
+404,Baños:,2
+404,Medio Baños:,1
+404,Garage:,2
+404,Terreno:,138m2
+404,Vendedor(a):,Inmobiliaria
+405,Recámara(s):,2
+405,Baños:,2
+405,Medio Baños:,1
+405,Garage:,2
+405,Vendedor(a):,Inmobiliaria
+406,Recámara(s):,2
+406,Baños:,2
+406,Garage:,1
+406,Vendedor(a):,Inmobiliaria
+407,Recámara(s):,3
+407,Baños:,1
+407,Vendedor(a):,Inmobiliaria
+408,Recámara(s):,3
+408,Baños:,2
+408,Garage:,2
+408,Vendedor(a):,Inmobiliaria
+409,Recámara(s):,2
+409,Baños:,2
+409,Garage:,2
+409,Vendedor(a):,Inmobiliaria
+410,Recámara(s):,2
+410,Baños:,2
+410,Garage:,1
+410,Vendedor(a):,Inmobiliaria
+411,Recámara(s):,2
+411,Baños:,2
+411,Vendedor(a):,Inmobiliaria
+412,Recámara(s):,2
+412,Baños:,2
+412,Garage:,1
+412,Vendedor(a):,Inmobiliaria
+413,Recámara(s):,1
+413,Baños:,1
+413,Vendedor(a):,Inmobiliaria
+414,Recámara(s):,4
+414,Baños:,4+
+414,Garage:,2
+414,Vendedor(a):,Inmobiliaria
+415,Recámara(s):,2
+415,Baños:,2
+415,Garage:,2
+415,Vendedor(a):,Inmobiliaria
+416,Recámara(s):,2
+416,Baños:,2
+416,Garage:,2
+416,Vendedor(a):,Inmobiliaria
+417,Recámara(s):,2
+417,Baños:,2
+417,Garage:,1
+417,Vendedor(a):,Inmobiliaria
+418,Recámara(s):,2
+418,Baños:,3
+418,Garage:,1
+418,Vendedor(a):,Inmobiliaria
+419,Recámara(s):,3
+419,Baños:,3
+419,Garage:,2
+419,Vendedor(a):,Inmobiliaria
+420,Recámara(s):,2
+420,Baños:,2
+420,Terreno:,117m2
+420,Vendedor(a):,Inmobiliaria
+421,Recámara(s):,3
+421,Baños:,2
+421,Garage:,1
+421,Vendedor(a):,Inmobiliaria
+422,Estatus:,Preventa
+422,Metros Cuadrados:,62-172m2
+422,Recámara(s):,2
+422,Baños:,2
+422,Medio Baños:,—
+422,Garage:,1
+422,Año de Construccion:,—
+422,Superficie Total:,—
+422,Entrega:,—
+423,Estatus:,Preventa
+423,Metros Cuadrados:,64-127m2
+423,Recámara(s):,1-3
+423,Baños:,1-2
+423,Medio Baños:,1
+423,Garage:,1-2
+423,Año de Construccion:,2022
+423,Superficie Total:,—
+423,Entrega:,enero 2023
+424,Recámara(s):,3
+424,Baños:,2
+424,Garage:,1
+424,Vendedor(a):,Inmobiliaria
+425,Recámara(s):,1
+425,Baños:,1
+425,Vendedor(a):,Inmobiliaria
+426,Recámara(s):,3
+426,Baños:,2
+426,Vendedor(a):,Inmobiliaria
+427,Recámara(s):,3
+427,Baños:,2
+427,Garage:,2
+427,Vendedor(a):,Inmobiliaria
+428,Recámara(s):,1
+428,Baños:,1
+428,Terreno:,112m2
+428,Vendedor(a):,Inmobiliaria
+429,Recámara(s):,2
+429,Baños:,2
+429,Vendedor(a):,Inmobiliaria
+430,Recámara(s):,1
+430,Baños:,1
+430,Garage:,1
+430,Terreno:,43m2
+430,Vendedor(a):,Inmobiliaria
+431,Recámara(s):,3
+431,Baños:,3
+431,Medio Baños:,1
+431,Garage:,3
+431,Vendedor(a):,Inmobiliaria
+432,Recámara(s):,2
+432,Baños:,2
+432,Medio Baños:,1
+432,Terreno:,168m2
+432,Vendedor(a):,Inmobiliaria
+433,Recámara(s):,3
+433,Baños:,3
+433,Garage:,2
+433,Vendedor(a):,Inmobiliaria
+434,Recámara(s):,2
+434,Baños:,2
+434,Garage:,2
+434,Vendedor(a):,Inmobiliaria
+435,Recámara(s):,2
+435,Baños:,2
+435,Garage:,1
+435,Vendedor(a):,Inmobiliaria
+436,Recámara(s):,2
+436,Baños:,2
+436,Garage:,1
+436,Vendedor(a):,Inmobiliaria
+437,Recámara(s):,4
+437,Baños:,3
+437,Vendedor(a):,Inmobiliaria
+438,Recámara(s):,2
+438,Baños:,2
+438,Garage:,1
+438,Terreno:,65m2
+438,Vendedor(a):,Inmobiliaria
+439,Recámara(s):,3
+439,Baños:,2
+439,Vendedor(a):,Inmobiliaria
+440,Recámara(s):,2
+440,Baños:,1
+440,Vendedor(a):,Inmobiliaria
+441,Recámara(s):,2
+441,Baños:,2
+441,Garage:,2
+441,Vendedor(a):,Inmobiliaria
+442,Recámara(s):,3
+442,Baños:,2
+442,Garage:,2
+442,Terreno:,180m2
+443,Recámara(s):,2
+443,Baños:,2
+443,Garage:,2
+443,Vendedor(a):,Inmobiliaria
+444,Estatus:,Preventa
+444,Metros Cuadrados:,62-172m2
+444,Recámara(s):,2
+444,Baños:,2
+444,Medio Baños:,—
+444,Garage:,1
+444,Año de Construccion:,—
+444,Superficie Total:,—
+444,Entrega:,—
+445,Estatus:,Preventa
+445,Metros Cuadrados:,64-127m2
+445,Recámara(s):,1-3
+445,Baños:,1-2
+445,Medio Baños:,1
+445,Garage:,1-2
+445,Año de Construccion:,2022
+445,Superficie Total:,—
+445,Entrega:,enero 2023
+446,Recámara(s):,2
+446,Baños:,2
+446,Garage:,1
+446,Vendedor(a):,Inmobiliaria
+447,Recámara(s):,2
+447,Baños:,2
+447,Garage:,2
+447,Vendedor(a):,Inmobiliaria
+448,Recámara(s):,2
+448,Baños:,2
+448,Garage:,2
+448,Vendedor(a):,Inmobiliaria
+449,Recámara(s):,2
+449,Baños:,2
+449,Garage:,2
+449,Vendedor(a):,Inmobiliaria
+450,Recámara(s):,2
+450,Baños:,2
+450,Garage:,2
+450,Vendedor(a):,Inmobiliaria
+451,Recámara(s):,3
+451,Baños:,2
+451,Garage:,2
+451,Vendedor(a):,Inmobiliaria
+452,Recámara(s):,3
+452,Baños:,2
+452,Garage:,2
+452,Vendedor(a):,Inmobiliaria
+453,Recámara(s):,3
+453,Baños:,2
+453,Garage:,2
+453,Terreno:,180m2
+453,Vendedor(a):,Inmobiliaria
+454,Recámara(s):,3
+454,Baños:,2
+454,Garage:,1
+454,Terreno:,120m2
+455,Recámara(s):,2
+455,Baños:,2
+455,Garage:,1
+455,Vendedor(a):,Inmobiliaria
+456,Recámara(s):,1
+456,Baños:,1
+456,Garage:,1
+456,Vendedor(a):,Inmobiliaria
+457,Recámara(s):,2
+457,Baños:,2
+457,Garage:,1
+457,Vendedor(a):,Inmobiliaria
+458,Recámara(s):,3
+458,Baños:,2
+458,Garage:,2
+458,Vendedor(a):,Inmobiliaria
+459,Recámara(s):,1
+459,Baños:,1
+459,Vendedor(a):,Inmobiliaria
+460,Recámara(s):,3
+460,Baños:,2
+460,Garage:,2
+460,Vendedor(a):,Inmobiliaria
+461,Recámara(s):,3
+461,Baños:,3
+461,Garage:,2
+461,Vendedor(a):,Inmobiliaria
+462,Recámara(s):,2
+462,Baños:,2
+462,Garage:,2
+462,Vendedor(a):,Inmobiliaria
+463,Recámara(s):,2
+463,Baños:,2
+463,Garage:,2
+463,Vendedor(a):,Inmobiliaria
+464,Recámara(s):,2
+464,Baños:,2
+464,Garage:,2
+464,Vendedor(a):,Inmobiliaria
+465,Recámara(s):,2
+465,Baños:,2
+465,Garage:,2
+465,Vendedor(a):,Inmobiliaria
+466,Estatus:,Preventa
+466,Metros Cuadrados:,62-172m2
+466,Recámara(s):,2
+466,Baños:,2
+466,Medio Baños:,—
+466,Garage:,1
+466,Año de Construccion:,—
+466,Superficie Total:,—
+466,Entrega:,—
+467,Estatus:,Preventa
+467,Metros Cuadrados:,64-127m2
+467,Recámara(s):,1-3
+467,Baños:,1-2
+467,Medio Baños:,1
+467,Garage:,1-2
+467,Año de Construccion:,2022
+467,Superficie Total:,—
+467,Entrega:,enero 2023
+468,Recámara(s):,1
+468,Baños:,1
+468,Garage:,1
+468,Vendedor(a):,Inmobiliaria
+469,Recámara(s):,2
+469,Baños:,1
+469,Garage:,1
+469,Vendedor(a):,Inmobiliaria
+470,Recámara(s):,3
+470,Baños:,2
+470,Garage:,2
+470,Vendedor(a):,Inmobiliaria
+471,Recámara(s):,2
+471,Baños:,2
+471,Garage:,2
+471,Vendedor(a):,Inmobiliaria
+472,Recámara(s):,2
+472,Baños:,2
+472,Garage:,1
+472,Vendedor(a):,Inmobiliaria
+473,Recámara(s):,3
+473,Baños:,2
+473,Garage:,1
+473,Terreno:,120m2
+473,Vendedor(a):,Inmobiliaria
+474,Recámara(s):,3
+474,Baños:,2
+474,Garage:,2
+474,Terreno:,180m2
+474,Vendedor(a):,Inmobiliaria
+475,Recámara(s):,2
+475,Baños:,2
+475,Garage:,1
+475,Terreno:,76m2
+475,Vendedor(a):,Inmobiliaria
+476,Recámara(s):,3
+476,Baños:,2
+476,Garage:,1
+476,Terreno:,120m2
+476,Vendedor(a):,Inmobiliaria
+477,Recámara(s):,3
+477,Baños:,2
+477,Garage:,2
+477,Terreno:,110m2
+477,Vendedor(a):,Inmobiliaria
+478,Recámara(s):,3
+478,Baños:,2
+478,Garage:,2
+478,Terreno:,110m2
+478,Vendedor(a):,Inmobiliaria
+479,Recámara(s):,3
+479,Baños:,2
+479,Garage:,1
+479,Terreno:,120m2
+479,Vendedor(a):,Inmobiliaria
+480,Recámara(s):,3
+480,Baños:,2
+480,Vendedor(a):,Inmobiliaria
+481,Recámara(s):,2
+481,Baños:,2
+481,Garage:,1
+481,Terreno:,95m2
+481,Vendedor(a):,Inmobiliaria
+482,Recámara(s):,2
+482,Baños:,2
+482,Garage:,1
+482,Vendedor(a):,Inmobiliaria
+483,Recámara(s):,2
+483,Baños:,1
+483,Garage:,1
+483,Vendedor(a):,Inmobiliaria
+484,Recámara(s):,3
+484,Baños:,2
+484,Medio Baños:,1
+484,Garage:,1
+484,Terreno:,93m2
+484,Vendedor(a):,Inmobiliaria
+485,Recámara(s):,3
+485,Baños:,2
+485,Garage:,2
+485,Vendedor(a):,Inmobiliaria
+486,Recámara(s):,2
+486,Baños:,2
+486,Garage:,1
+486,Terreno:,118m2
+486,Vendedor(a):,Inmobiliaria
+487,Recámara(s):,2
+487,Baños:,2
+487,Garage:,1
+487,Terreno:,118m2
+487,Vendedor(a):,Inmobiliaria
+488,Estatus:,Preventa
+488,Metros Cuadrados:,62-172m2
+488,Recámara(s):,2
+488,Baños:,2
+488,Medio Baños:,—
+488,Garage:,1
+488,Año de Construccion:,—
+488,Superficie Total:,—
+488,Entrega:,—
+489,Estatus:,Preventa
+489,Metros Cuadrados:,64-127m2
+489,Recámara(s):,1-3
+489,Baños:,1-2
+489,Medio Baños:,1
+489,Garage:,1-2
+489,Año de Construccion:,2022
+489,Superficie Total:,—
+489,Entrega:,enero 2023
+490,Recámara(s):,1
+490,Baños:,1
+490,Vendedor(a):,Inmobiliaria
+491,Recámara(s):,2
+491,Baños:,2
+491,Medio Baños:,1
+491,Garage:,2
+491,Terreno:,141m2
+491,Vendedor(a):,Inmobiliaria
+492,Recámara(s):,2
+492,Baños:,1
+492,Terreno:,92m2
+492,Vendedor(a):,Inmobiliaria
+493,Recámara(s):,2
+493,Baños:,1
+493,Medio Baños:,1
+493,Garage:,1
+493,Vendedor(a):,Inmobiliaria
+494,Recámara(s):,3
+494,Baños:,2
+494,Garage:,2
+494,Terreno:,110m2
+494,Vendedor(a):,Inmobiliaria
+495,Recámara(s):,3
+495,Baños:,2
+495,Garage:,2
+495,Terreno:,110m2
+495,Vendedor(a):,Inmobiliaria
+496,Recámara(s):,3
+496,Baños:,2
+496,Garage:,2
+496,Terreno:,180m2
+496,Vendedor(a):,Inmobiliaria
+497,Recámara(s):,3
+497,Baños:,2
+497,Garage:,2
+497,Terreno:,180m2
+497,Vendedor(a):,Inmobiliaria
+498,Recámara(s):,3
+498,Baños:,2
+498,Garage:,1
+498,Terreno:,120m2
+498,Vendedor(a):,Inmobiliaria
+499,Recámara(s):,1
+499,Baños:,1
+499,Garage:,1
+499,Terreno:,63m2
+499,Vendedor(a):,Inmobiliaria
+500,Recámara(s):,1
+500,Baños:,1
+500,Garage:,1
+500,Terreno:,51m2
+500,Vendedor(a):,Inmobiliaria
+501,Recámara(s):,3
+501,Baños:,3
+501,Vendedor(a):,Inmobiliaria
+502,Recámara(s):,3
+502,Baños:,2
+502,Vendedor(a):,Inmobiliaria
+503,Recámara(s):,3
+503,Baños:,3
+503,Vendedor(a):,Inmobiliaria
+504,Recámara(s):,3
+504,Baños:,2
+504,Garage:,2
+504,Terreno:,110m2
+504,Vendedor(a):,Inmobiliaria
+505,Recámara(s):,3
+505,Baños:,2
+505,Garage:,2
+505,Terreno:,110m2
+505,Vendedor(a):,Inmobiliaria
+506,Recámara(s):,2
+506,Baños:,2
+506,Garage:,1
+506,Terreno:,68m2
+506,Vendedor(a):,Inmobiliaria
+507,Recámara(s):,2
+507,Baños:,2
+507,Garage:,2
+507,Terreno:,107m2
+507,Vendedor(a):,Inmobiliaria
+508,Recámara(s):,2
+508,Baños:,2
+508,Garage:,2
+508,Terreno:,110m2
+508,Vendedor(a):,Inmobiliaria
+509,Recámara(s):,2
+509,Baños:,2
+509,Garage:,2
+509,Vendedor(a):,Inmobiliaria
+510,Estatus:,Preventa
+510,Metros Cuadrados:,62-172m2
+510,Recámara(s):,2
+510,Baños:,2
+510,Medio Baños:,—
+510,Garage:,1
+510,Año de Construccion:,—
+510,Superficie Total:,—
+510,Entrega:,—
+511,Estatus:,Preventa
+511,Metros Cuadrados:,64-127m2
+511,Recámara(s):,1-3
+511,Baños:,1-2
+511,Medio Baños:,1
+511,Garage:,1-2
+511,Año de Construccion:,2022
+511,Superficie Total:,—
+511,Entrega:,enero 2023
+512,Recámara(s):,2
+512,Baños:,2
+512,Garage:,1
+512,Terreno:,70m2
+512,Vendedor(a):,Inmobiliaria
+513,Recámara(s):,2
+513,Baños:,2
+513,Garage:,2
+513,Terreno:,115m2
+513,Vendedor(a):,Inmobiliaria
+514,Recámara(s):,2
+514,Baños:,2
+514,Garage:,1
+514,Terreno:,85m2
+514,Vendedor(a):,Inmobiliaria
+515,Recámara(s):,2
+515,Baños:,2
+515,Garage:,2
+515,Terreno:,110m2
+515,Vendedor(a):,Inmobiliaria
+516,Recámara(s):,3
+516,Baños:,3
+516,Vendedor(a):,Inmobiliaria
+517,Recámara(s):,2
+517,Baños:,2
+517,Vendedor(a):,Inmobiliaria
+518,Recámara(s):,2
+518,Baños:,2
+518,Vendedor(a):,Inmobiliaria
+519,Recámara(s):,3
+519,Baños:,2
+519,Vendedor(a):,Inmobiliaria
+520,Recámara(s):,1
+520,Baños:,1
+520,Vendedor(a):,Inmobiliaria
+521,Recámara(s):,1
+521,Baños:,1
+521,Vendedor(a):,Inmobiliaria
+522,Recámara(s):,1
+522,Baños:,1
+522,Vendedor(a):,Inmobiliaria
+523,Recámara(s):,1
+523,Baños:,1
+523,Vendedor(a):,Inmobiliaria
+524,Recámara(s):,1
+524,Baños:,1
+524,Vendedor(a):,Inmobiliaria
+525,Recámara(s):,1
+525,Baños:,1
+525,Vendedor(a):,Inmobiliaria
+526,Recámara(s):,1
+526,Baños:,1
+526,Vendedor(a):,Inmobiliaria
+527,Recámara(s):,1
+527,Baños:,1
+527,Vendedor(a):,Inmobiliaria
+528,Recámara(s):,1
+528,Baños:,1
+528,Vendedor(a):,Inmobiliaria
+529,Recámara(s):,1
+529,Baños:,1
+529,Vendedor(a):,Inmobiliaria
+530,Recámara(s):,3
+530,Baños:,2
+530,Vendedor(a):,Inmobiliaria
+531,Recámara(s):,2
+531,Baños:,2
+531,Vendedor(a):,Inmobiliaria
+532,Estatus:,Preventa
+532,Metros Cuadrados:,62-172m2
+532,Recámara(s):,2
+532,Baños:,2
+532,Medio Baños:,—
+532,Garage:,1
+532,Año de Construccion:,—
+532,Superficie Total:,—
+532,Entrega:,—
+533,Estatus:,Preventa
+533,Metros Cuadrados:,64-127m2
+533,Recámara(s):,1-3
+533,Baños:,1-2
+533,Medio Baños:,1
+533,Garage:,1-2
+533,Año de Construccion:,2022
+533,Superficie Total:,—
+533,Entrega:,enero 2023
+534,Recámara(s):,2
+534,Baños:,2
+534,Vendedor(a):,Inmobiliaria
+535,Recámara(s):,2
+535,Baños:,2
+535,Vendedor(a):,Inmobiliaria
+536,Recámara(s):,1
+536,Baños:,1
+536,Vendedor(a):,Inmobiliaria
+537,Recámara(s):,3
+537,Baños:,2
+537,Vendedor(a):,Inmobiliaria
+538,Recámara(s):,1
+538,Baños:,1
+538,Vendedor(a):,Inmobiliaria
+539,Recámara(s):,3
+539,Baños:,1
+539,Vendedor(a):,Inmobiliaria
+540,Recámara(s):,2
+540,Baños:,1
+540,Garage:,1
+540,Vendedor(a):,Inmobiliaria
+541,Recámara(s):,3
+541,Baños:,2
+541,Garage:,2
+541,Terreno:,180m2
+541,Vendedor(a):,Inmobiliaria
+542,Recámara(s):,3
+542,Baños:,2
+542,Garage:,2
+542,Terreno:,110m2
+542,Vendedor(a):,Inmobiliaria
+543,Recámara(s):,3
+543,Baños:,2
+543,Garage:,1
+543,Terreno:,120m2
+543,Vendedor(a):,Inmobiliaria
+544,Recámara(s):,2
+544,Baños:,2
+544,Vendedor(a):,Inmobiliaria
+545,Recámara(s):,2
+545,Baños:,2
+545,Garage:,1
+545,Vendedor(a):,Inmobiliaria
+546,Recámara(s):,2
+546,Baños:,2
+546,Garage:,1
+546,Terreno:,99m2
+546,Vendedor(a):,Inmobiliaria
+547,Recámara(s):,2
+547,Baños:,2
+547,Garage:,1
+547,Vendedor(a):,Inmobiliaria
+548,Recámara(s):,3
+548,Baños:,2
+548,Garage:,2
+548,Vendedor(a):,Inmobiliaria
+549,Recámara(s):,3
+549,Baños:,2
+549,Garage:,2
+549,Terreno:,180m2
+549,Vendedor(a):,Inmobiliaria
+550,Recámara(s):,3
+550,Baños:,2
+550,Garage:,2
+550,Terreno:,110m2
+550,Vendedor(a):,Inmobiliaria
+551,Recámara(s):,3
+551,Baños:,2
+551,Medio Baños:,1
+551,Garage:,2
+551,Terreno:,176m2
+551,Vendedor(a):,Inmobiliaria
+552,Recámara(s):,3
+552,Baños:,2
+552,Garage:,1
+552,Terreno:,100m2
+552,Vendedor(a):,Inmobiliaria
+553,Recámara(s):,2
+553,Baños:,2
+553,Garage:,1
+553,Vendedor(a):,Inmobiliaria
+554,Estatus:,Preventa
+554,Metros Cuadrados:,62-172m2
+554,Recámara(s):,2
+554,Baños:,2
+554,Medio Baños:,—
+554,Garage:,1
+554,Año de Construccion:,—
+554,Superficie Total:,—
+554,Entrega:,—
+555,Estatus:,Preventa
+555,Metros Cuadrados:,64-127m2
+555,Recámara(s):,1-3
+555,Baños:,1-2
+555,Medio Baños:,1
+555,Garage:,1-2
+555,Año de Construccion:,2022
+555,Superficie Total:,—
+555,Entrega:,enero 2023
+556,Recámara(s):,2
+556,Baños:,2
+556,Garage:,2
+556,Vendedor(a):,Inmobiliaria
+557,Recámara(s):,3
+557,Baños:,3
+557,Medio Baños:,1
+557,Garage:,2
+557,Vendedor(a):,Inmobiliaria
+558,Recámara(s):,3
+558,Baños:,3
+558,Garage:,2
+558,Vendedor(a):,Inmobiliaria
+559,Recámara(s):,2
+559,Baños:,2
+559,Garage:,2
+559,Terreno:,79m2
+559,Vendedor(a):,Inmobiliaria
+560,Recámara(s):,2
+560,Baños:,2
+560,Garage:,2
+560,Vendedor(a):,Inmobiliaria
+561,Recámara(s):,3
+561,Baños:,2
+561,Garage:,2
+561,Vendedor(a):,Inmobiliaria
+562,Recámara(s):,2
+562,Baños:,2
+562,Garage:,2
+562,Vendedor(a):,Inmobiliaria
+563,Recámara(s):,1
+563,Baños:,1
+563,Vendedor(a):,Inmobiliaria
+564,Recámara(s):,2
+564,Baños:,2
+564,Vendedor(a):,Inmobiliaria
+565,Recámara(s):,2
+565,Baños:,2
+565,Vendedor(a):,Inmobiliaria
+566,Recámara(s):,2
+566,Baños:,3
+566,Medio Baños:,1
+566,Garage:,2
+566,Vendedor(a):,Inmobiliaria
+567,Recámara(s):,3
+567,Baños:,3
+567,Medio Baños:,1
+567,Garage:,2
+567,Vendedor(a):,Inmobiliaria
+568,Recámara(s):,2
+568,Baños:,2
+568,Medio Baños:,1
+568,Garage:,2
+568,Vendedor(a):,Inmobiliaria
+569,Recámara(s):,2
+569,Baños:,2
+569,Garage:,2
+569,Terreno:,105m2
+569,Vendedor(a):,Inmobiliaria
+570,Recámara(s):,2
+570,Baños:,2
+570,Vendedor(a):,Inmobiliaria
+571,Recámara(s):,2
+571,Baños:,2
+571,Vendedor(a):,Inmobiliaria
+572,Recámara(s):,3
+572,Baños:,2
+572,Vendedor(a):,Inmobiliaria
+573,Recámara(s):,2
+573,Baños:,2
+573,Medio Baños:,1
+573,Garage:,2
+573,Vendedor(a):,Inmobiliaria
+574,Recámara(s):,1
+574,Baños:,1
+574,Vendedor(a):,Inmobiliaria
+575,Recámara(s):,2
+575,Baños:,2
+575,Medio Baños:,1
+575,Garage:,2
+575,Vendedor(a):,Inmobiliaria
+576,Estatus:,Preventa
+576,Metros Cuadrados:,62-172m2
+576,Recámara(s):,2
+576,Baños:,2
+576,Medio Baños:,—
+576,Garage:,1
+576,Año de Construccion:,—
+576,Superficie Total:,—
+576,Entrega:,—
+577,Estatus:,Preventa
+577,Metros Cuadrados:,64-127m2
+577,Recámara(s):,1-3
+577,Baños:,1-2
+577,Medio Baños:,1
+577,Garage:,1-2
+577,Año de Construccion:,2022
+577,Superficie Total:,—
+577,Entrega:,enero 2023
+578,Recámara(s):,2
+578,Baños:,2
+578,Medio Baños:,1
+578,Garage:,2
+578,Vendedor(a):,Inmobiliaria
+579,Recámara(s):,3
+579,Baños:,2
+579,Medio Baños:,1
+579,Garage:,2
+579,Terreno:,145m2
+579,Vendedor(a):,Inmobiliaria
+580,Recámara(s):,1
+580,Baños:,1
+580,Vendedor(a):,Inmobiliaria
+581,Recámara(s):,2
+581,Baños:,2
+581,Garage:,2
+581,Vendedor(a):,Inmobiliaria
+582,Recámara(s):,2
+582,Baños:,2
+582,Garage:,2
+582,Vendedor(a):,Inmobiliaria
+583,Recámara(s):,2
+583,Baños:,1
+583,Garage:,1
+583,Terreno:,65m2
+584,Recámara(s):,3
+584,Baños:,2
+584,Terreno:,91m2
+584,Vendedor(a):,Inmobiliaria
+585,Recámara(s):,3
+585,Baños:,2
+585,Garage:,1
+585,Terreno:,110m2
+585,Vendedor(a):,Inmobiliaria
+586,Recámara(s):,2
+586,Baños:,2
+586,Garage:,2
+586,Vendedor(a):,Inmobiliaria
+587,Recámara(s):,3
+587,Baños:,2
+587,Garage:,3
+587,Vendedor(a):,Inmobiliaria
+588,Recámara(s):,2
+588,Baños:,2
+588,Garage:,1
+588,Terreno:,132m2
+588,Vendedor(a):,Inmobiliaria
+589,Recámara(s):,2
+589,Baños:,2
+589,Garage:,1
+589,Vendedor(a):,Inmobiliaria
+590,Recámara(s):,2
+590,Baños:,2
+590,Medio Baños:,1
+590,Garage:,2
+590,Vendedor(a):,Inmobiliaria
+591,Recámara(s):,2
+591,Baños:,2
+591,Garage:,2
+591,Vendedor(a):,Inmobiliaria
+592,Recámara(s):,3
+592,Baños:,3
+592,Garage:,2
+592,Vendedor(a):,Inmobiliaria
+593,Recámara(s):,2
+593,Baños:,2
+593,Garage:,1
+593,Terreno:,85m2
+593,Vendedor(a):,Inmobiliaria
+594,Recámara(s):,2
+594,Baños:,1
+594,Terreno:,52m2
+594,Vendedor(a):,Inmobiliaria
+595,Recámara(s):,1
+595,Baños:,1
+595,Terreno:,55m2
+595,Vendedor(a):,Inmobiliaria
+596,Recámara(s):,3
+596,Baños:,3
+596,Garage:,2
+596,Terreno:,190m2
+596,Vendedor(a):,Inmobiliaria
+597,Recámara(s):,2
+597,Baños:,2
+597,Garage:,1
+597,Vendedor(a):,Inmobiliaria
+598,Estatus:,Preventa
+598,Metros Cuadrados:,62-172m2
+598,Recámara(s):,2
+598,Baños:,2
+598,Medio Baños:,—
+598,Garage:,1
+598,Año de Construccion:,—
+598,Superficie Total:,—
+598,Entrega:,—
+599,Estatus:,Preventa
+599,Metros Cuadrados:,64-127m2
+599,Recámara(s):,1-3
+599,Baños:,1-2
+599,Medio Baños:,1
+599,Garage:,1-2
+599,Año de Construccion:,2022
+599,Superficie Total:,—
+599,Entrega:,enero 2023
+600,Recámara(s):,2
+600,Baños:,2
+600,Vendedor(a):,Inmobiliaria
+601,Recámara(s):,2
+601,Baños:,2
+601,Garage:,1
+601,Vendedor(a):,Inmobiliaria
+602,Recámara(s):,2
+602,Baños:,2
+602,Garage:,2
+602,Vendedor(a):,Inmobiliaria
+603,Recámara(s):,3
+603,Baños:,3
+603,Garage:,2
+603,Terreno:,90m2
+603,Vendedor(a):,Inmobiliaria
+604,Recámara(s):,2
+604,Baños:,2
+604,Vendedor(a):,Inmobiliaria
+605,Recámara(s):,2
+605,Baños:,1
+605,Garage:,1
+605,Vendedor(a):,Inmobiliaria
+606,Recámara(s):,2
+606,Baños:,1
+606,Garage:,1
+606,Terreno:,92m2
+606,Vendedor(a):,Inmobiliaria
+607,Recámara(s):,2
+607,Baños:,2
+607,Terreno:,138m2
+607,Vendedor(a):,Inmobiliaria
+608,Recámara(s):,2
+608,Baños:,2
+608,Terreno:,69m2
+608,Vendedor(a):,Inmobiliaria
+609,Recámara(s):,3
+609,Baños:,2
+609,Medio Baños:,1
+609,Terreno:,130m2
+609,Vendedor(a):,Inmobiliaria
+610,Recámara(s):,2
+610,Baños:,2
+610,Terreno:,85m2
+610,Vendedor(a):,Inmobiliaria
+611,Recámara(s):,2
+611,Baños:,2
+611,Terreno:,85m2
+611,Vendedor(a):,Inmobiliaria
+612,Recámara(s):,2
+612,Baños:,2
+612,Terreno:,85m2
+612,Vendedor(a):,Inmobiliaria
+613,Recámara(s):,1
+613,Baños:,1
+613,Terreno:,44m2
+613,Vendedor(a):,Inmobiliaria
+614,Recámara(s):,1
+614,Baños:,1
+614,Terreno:,46m2
+614,Vendedor(a):,Inmobiliaria
+615,Recámara(s):,2
+615,Baños:,2
+615,Garage:,1
+615,Terreno:,95m2
+615,Vendedor(a):,Inmobiliaria
+616,Recámara(s):,2
+616,Baños:,1
+616,Medio Baños:,1
+616,Garage:,1
+616,Terreno:,80m2
+616,Vendedor(a):,Inmobiliaria
+617,Recámara(s):,1
+617,Baños:,1
+617,Garage:,1
+617,Terreno:,34m2
+617,Vendedor(a):,Inmobiliaria
+618,Recámara(s):,2
+618,Baños:,2
+618,Vendedor(a):,Inmobiliaria
+619,Recámara(s):,2
+619,Baños:,2
+619,Vendedor(a):,Inmobiliaria
+620,Estatus:,Preventa
+620,Metros Cuadrados:,62-172m2
+620,Recámara(s):,2
+620,Baños:,2
+620,Medio Baños:,—
+620,Garage:,1
+620,Año de Construccion:,—
+620,Superficie Total:,—
+620,Entrega:,—
+621,Estatus:,Preventa
+621,Metros Cuadrados:,64-127m2
+621,Recámara(s):,1-3
+621,Baños:,1-2
+621,Medio Baños:,1
+621,Garage:,1-2
+621,Año de Construccion:,2022
+621,Superficie Total:,—
+621,Entrega:,enero 2023
+622,Recámara(s):,2
+622,Baños:,2
+622,Vendedor(a):,Inmobiliaria
+623,Recámara(s):,1
+623,Baños:,1
+623,Vendedor(a):,Inmobiliaria
+624,Recámara(s):,3
+624,Baños:,1
+624,Vendedor(a):,Inmobiliaria
+625,Recámara(s):,3
+625,Baños:,3
+625,Medio Baños:,1
+625,Garage:,2
+625,Vendedor(a):,Inmobiliaria
+626,Recámara(s):,2
+626,Baños:,2
+626,Garage:,2
+626,Vendedor(a):,Inmobiliaria
+627,Recámara(s):,2
+627,Baños:,2
+627,Medio Baños:,1
+627,Garage:,2
+627,Vendedor(a):,Inmobiliaria
+628,Recámara(s):,1
+628,Garage:,2
+628,Vendedor(a):,Inmobiliaria
+629,Recámara(s):,3
+629,Baños:,3
+629,Medio Baños:,1
+629,Garage:,2
+629,Vendedor(a):,Inmobiliaria
+630,Recámara(s):,3
+630,Baños:,2
+630,Garage:,1
+630,Terreno:,90m2
+630,Vendedor(a):,Inmobiliaria
+631,Recámara(s):,2
+631,Baños:,1
+631,Medio Baños:,1
+631,Garage:,1
+631,Terreno:,85m2
+631,Vendedor(a):,Inmobiliaria
+632,Recámara(s):,3
+632,Baños:,1
+632,Medio Baños:,1
+632,Garage:,1
+632,Terreno:,85m2
+632,Vendedor(a):,Inmobiliaria
+633,Recámara(s):,3
+633,Baños:,3
+633,Garage:,2
+633,Vendedor(a):,Inmobiliaria
+635,Recámara(s):,1
+635,Baños:,1
+635,Garage:,1
+635,Vendedor(a):,Inmobiliaria
+636,Recámara(s):,2
+636,Baños:,3
+636,Garage:,2
+636,Vendedor(a):,Inmobiliaria
+637,Recámara(s):,2
+637,Baños:,2
+637,Garage:,2
+637,Vendedor(a):,Inmobiliaria
+638,Recámara(s):,3
+638,Baños:,3
+638,Medio Baños:,1
+638,Garage:,2
+638,Vendedor(a):,Inmobiliaria
+639,Recámara(s):,1
+639,Baños:,1
+639,Vendedor(a):,Inmobiliaria
+640,Recámara(s):,6+
+640,Vendedor(a):,Inmobiliaria
+641,Recámara(s):,3
+641,Baños:,3
+641,Medio Baños:,1
+641,Garage:,2
+641,Vendedor(a):,Inmobiliaria
+642,Estatus:,Preventa
+642,Metros Cuadrados:,62-172m2
+642,Recámara(s):,2
+642,Baños:,2
+642,Medio Baños:,—
+642,Garage:,1
+642,Año de Construccion:,—
+642,Superficie Total:,—
+642,Entrega:,—
+643,Estatus:,Preventa
+643,Metros Cuadrados:,64-127m2
+643,Recámara(s):,1-3
+643,Baños:,1-2
+643,Medio Baños:,1
+643,Garage:,1-2
+643,Año de Construccion:,2022
+643,Superficie Total:,—
+643,Entrega:,enero 2023
+644,Recámara(s):,2
+644,Baños:,2
+644,Medio Baños:,1
+644,Garage:,2
+644,Vendedor(a):,Inmobiliaria
+645,Recámara(s):,2
+645,Baños:,2
+645,Garage:,1
+645,Vendedor(a):,Inmobiliaria
+646,Recámara(s):,2
+646,Baños:,2
+646,Medio Baños:,2
+646,Garage:,2
+646,Vendedor(a):,Inmobiliaria
+647,Recámara(s):,2
+647,Baños:,2
+647,Garage:,2
+647,Vendedor(a):,Inmobiliaria
+648,Recámara(s):,3
+648,Baños:,2
+648,Garage:,2
+648,Vendedor(a):,Inmobiliaria
+649,Recámara(s):,3
+649,Baños:,3
+649,Garage:,1
+649,Vendedor(a):,Inmobiliaria
+650,Recámara(s):,3
+650,Baños:,3
+650,Garage:,2
+650,Vendedor(a):,Inmobiliaria
+651,Recámara(s):,1
+651,Baños:,1
+651,Vendedor(a):,Inmobiliaria
+652,Recámara(s):,2
+652,Baños:,2
+652,Garage:,2
+652,Terreno:,113m2
+652,Vendedor(a):,Inmobiliaria
+653,Recámara(s):,3
+653,Baños:,2
+653,Terreno:,220m2
+653,Vendedor(a):,Inmobiliaria
+654,Recámara(s):,3
+654,Baños:,3
+654,Garage:,2
+654,Vendedor(a):,Inmobiliaria
+655,Recámara(s):,3
+655,Baños:,2
+655,Garage:,1
+655,Vendedor(a):,Inmobiliaria
+656,Recámara(s):,2
+656,Baños:,2
+656,Medio Baños:,2
+656,Garage:,2
+656,Vendedor(a):,Inmobiliaria
+657,Recámara(s):,2
+657,Baños:,2
+657,Medio Baños:,2
+657,Garage:,2
+657,Vendedor(a):,Inmobiliaria
+658,Recámara(s):,1
+658,Baños:,1
+658,Garage:,1
+658,Vendedor(a):,Inmobiliaria
+659,Recámara(s):,3
+659,Baños:,3
+659,Garage:,2
+659,Vendedor(a):,Inmobiliaria
+660,Recámara(s):,1
+660,Baños:,1
+660,Garage:,1
+660,Vendedor(a):,Inmobiliaria
+661,Recámara(s):,2
+661,Baños:,2
+661,Garage:,1
+661,Vendedor(a):,Inmobiliaria
+662,Recámara(s):,2
+662,Baños:,2
+662,Garage:,1
+662,Vendedor(a):,Inmobiliaria
+663,Recámara(s):,1
+663,Baños:,1
+663,Garage:,1
+663,Vendedor(a):,Inmobiliaria
+664,Estatus:,Preventa
+664,Metros Cuadrados:,62-172m2
+664,Recámara(s):,2
+664,Baños:,2
+664,Medio Baños:,—
+664,Garage:,1
+664,Año de Construccion:,—
+664,Superficie Total:,—
+664,Entrega:,—
+665,Estatus:,Preventa
+665,Metros Cuadrados:,64-127m2
+665,Recámara(s):,1-3
+665,Baños:,1-2
+665,Medio Baños:,1
+665,Garage:,1-2
+665,Año de Construccion:,2022
+665,Superficie Total:,—
+665,Entrega:,enero 2023
+666,Recámara(s):,2
+666,Baños:,2
+666,Garage:,1
+666,Terreno:,118m2
+666,Vendedor(a):,Inmobiliaria
+667,Recámara(s):,2
+667,Baños:,1
+667,Medio Baños:,1
+667,Terreno:,145m2
+667,Vendedor(a):,Inmobiliaria
+668,Recámara(s):,1
+668,Baños:,1
+668,Vendedor(a):,Inmobiliaria
+669,Recámara(s):,3
+669,Baños:,3
+669,Vendedor(a):,Inmobiliaria
+670,Recámara(s):,3
+670,Baños:,1
+670,Vendedor(a):,Inmobiliaria
+671,Recámara(s):,1
+671,Baños:,1
+671,Garage:,1
+671,Terreno:,63m2
+671,Vendedor(a):,Inmobiliaria
+672,Recámara(s):,1
+672,Baños:,1
+672,Vendedor(a):,Inmobiliaria
+673,Recámara(s):,3
+673,Baños:,3
+673,Garage:,2
+673,Vendedor(a):,Inmobiliaria
+674,Recámara(s):,3
+674,Baños:,3
+674,Garage:,1
+674,Vendedor(a):,Inmobiliaria
+675,Recámara(s):,3
+675,Garage:,2
+675,Terreno:,148m2
+675,Vendedor(a):,Inmobiliaria
+676,Recámara(s):,2
+676,Baños:,1
+676,Medio Baños:,1
+676,Garage:,1
+676,Terreno:,65m2
+676,Vendedor(a):,Inmobiliaria
+677,Recámara(s):,2
+677,Baños:,1
+677,Garage:,1
+677,Vendedor(a):,Inmobiliaria
+678,Recámara(s):,2
+678,Baños:,1
+678,Garage:,1
+678,Terreno:,66m2
+678,Vendedor(a):,Inmobiliaria
+679,Recámara(s):,2
+679,Baños:,1
+679,Medio Baños:,1
+679,Garage:,1
+679,Terreno:,111m2
+679,Vendedor(a):,Inmobiliaria
+680,Recámara(s):,2
+680,Baños:,1
+680,Garage:,1
+680,Terreno:,60m2
+680,Vendedor(a):,Inmobiliaria
+681,Recámara(s):,1
+681,Baños:,1
+681,Garage:,1
+681,Terreno:,39m2
+681,Vendedor(a):,Inmobiliaria
+682,Recámara(s):,1
+682,Baños:,1
+682,Garage:,1
+682,Terreno:,51m2
+682,Vendedor(a):,Inmobiliaria
+683,Recámara(s):,1
+683,Baños:,1
+683,Garage:,1
+683,Terreno:,41m2
+683,Vendedor(a):,Inmobiliaria
+684,Recámara(s):,1
+684,Baños:,1
+684,Garage:,1
+684,Terreno:,48m2
+684,Vendedor(a):,Inmobiliaria
+685,Recámara(s):,2
+685,Baños:,2
+685,Garage:,1
+685,Terreno:,126m2
+685,Vendedor(a):,Inmobiliaria
+686,Estatus:,Preventa
+686,Metros Cuadrados:,62-172m2
+686,Recámara(s):,2
+686,Baños:,2
+686,Medio Baños:,—
+686,Garage:,1
+686,Año de Construccion:,—
+686,Superficie Total:,—
+686,Entrega:,—
+687,Estatus:,Preventa
+687,Metros Cuadrados:,64-127m2
+687,Recámara(s):,1-3
+687,Baños:,1-2
+687,Medio Baños:,1
+687,Garage:,1-2
+687,Año de Construccion:,2022
+687,Superficie Total:,—
+687,Entrega:,enero 2023
+688,Recámara(s):,1
+688,Baños:,1
+688,Garage:,1
+688,Terreno:,42m2
+688,Vendedor(a):,Inmobiliaria
+689,Recámara(s):,2
+689,Baños:,2
+689,Medio Baños:,1
+689,Garage:,2
+689,Terreno:,267m2
+689,Vendedor(a):,Inmobiliaria
+690,Recámara(s):,3
+690,Baños:,2
+690,Terreno:,85m2
+690,Vendedor(a):,Inmobiliaria
+691,Recámara(s):,2
+691,Baños:,2
+691,Vendedor(a):,Inmobiliaria
+692,Recámara(s):,3
+692,Baños:,4+
+692,Vendedor(a):,Inmobiliaria
+693,Recámara(s):,3
+693,Baños:,4+
+693,Vendedor(a):,Inmobiliaria
+694,Recámara(s):,3
+694,Baños:,4+
+694,Terreno:,147m2
+694,Vendedor(a):,Inmobiliaria
+695,Recámara(s):,3
+695,Baños:,4+
+695,Vendedor(a):,Inmobiliaria
+696,Recámara(s):,2
+696,Baños:,1
+696,Garage:,1
+696,Vendedor(a):,Inmobiliaria
+697,Recámara(s):,2
+697,Baños:,2
+697,Garage:,2
+697,Vendedor(a):,Inmobiliaria
+698,Recámara(s):,2
+698,Baños:,1
+698,Vendedor(a):,Inmobiliaria
+699,Recámara(s):,6+
+699,Vendedor(a):,Inmobiliaria
+700,Recámara(s):,2
+700,Baños:,2
+700,Garage:,1
+700,Vendedor(a):,Inmobiliaria
+701,Recámara(s):,2
+701,Baños:,2
+701,Garage:,1
+701,Vendedor(a):,Inmobiliaria
+702,Recámara(s):,2
+702,Baños:,2
+702,Garage:,2
+702,Vendedor(a):,Inmobiliaria
+703,Recámara(s):,1
+703,Baños:,1
+703,Garage:,1
+703,Vendedor(a):,Inmobiliaria
+704,Recámara(s):,1
+704,Baños:,1
+704,Garage:,1
+704,Vendedor(a):,Inmobiliaria
+705,Recámara(s):,1
+705,Baños:,1
+705,Garage:,1
+705,Vendedor(a):,Inmobiliaria
+706,Recámara(s):,2
+706,Baños:,2
+706,Garage:,1
+706,Vendedor(a):,Inmobiliaria
+707,Recámara(s):,1
+707,Baños:,1
+707,Garage:,1
+707,Vendedor(a):,Inmobiliaria
+708,Estatus:,Preventa
+708,Metros Cuadrados:,62-172m2
+708,Recámara(s):,2
+708,Baños:,2
+708,Medio Baños:,—
+708,Garage:,1
+708,Año de Construccion:,—
+708,Superficie Total:,—
+708,Entrega:,—
+709,Estatus:,Preventa
+709,Metros Cuadrados:,64-127m2
+709,Recámara(s):,1-3
+709,Baños:,1-2
+709,Medio Baños:,1
+709,Garage:,1-2
+709,Año de Construccion:,2022
+709,Superficie Total:,—
+709,Entrega:,enero 2023
+710,Recámara(s):,1
+710,Baños:,1
+710,Garage:,1
+710,Vendedor(a):,Inmobiliaria
+711,Recámara(s):,2
+711,Baños:,2
+711,Vendedor(a):,Inmobiliaria
+712,Recámara(s):,2
+712,Baños:,2
+712,Garage:,1
+712,Vendedor(a):,Inmobiliaria
+713,Recámara(s):,3
+713,Baños:,2
+713,Garage:,2
+713,Vendedor(a):,Inmobiliaria
+714,Recámara(s):,2
+714,Baños:,2
+714,Garage:,1
+714,Vendedor(a):,Inmobiliaria
+715,Recámara(s):,2
+715,Baños:,2
+715,Medio Baños:,2
+715,Garage:,2
+715,Vendedor(a):,Inmobiliaria
+716,Recámara(s):,1
+716,Baños:,1
+716,Vendedor(a):,Inmobiliaria
+717,Recámara(s):,1
+717,Baños:,1
+717,Vendedor(a):,Inmobiliaria
+718,Recámara(s):,1
+718,Baños:,1
+718,Vendedor(a):,Inmobiliaria
+719,Recámara(s):,1
+719,Baños:,1
+719,Vendedor(a):,Inmobiliaria
+720,Recámara(s):,2
+720,Baños:,2
+720,Garage:,1
+720,Vendedor(a):,Inmobiliaria
+721,Recámara(s):,1
+721,Baños:,1
+721,Medio Baños:,1
+721,Garage:,1
+721,Vendedor(a):,Inmobiliaria
+722,Recámara(s):,2
+722,Baños:,2
+722,Garage:,1
+722,Vendedor(a):,Inmobiliaria
+723,Recámara(s):,2
+723,Baños:,2
+723,Garage:,2
+723,Vendedor(a):,Inmobiliaria
+724,Recámara(s):,2
+724,Baños:,2
+724,Garage:,1
+724,Vendedor(a):,Inmobiliaria
+725,Recámara(s):,1
+725,Baños:,2
+725,Garage:,2
+725,Vendedor(a):,Inmobiliaria
+726,Recámara(s):,3
+726,Baños:,2
+726,Garage:,2
+726,Vendedor(a):,Inmobiliaria
+727,Recámara(s):,1
+727,Baños:,1
+727,Vendedor(a):,Inmobiliaria
+728,Recámara(s):,1
+728,Baños:,1
+728,Vendedor(a):,Inmobiliaria
+729,Recámara(s):,2
+729,Baños:,2
+729,Vendedor(a):,Inmobiliaria
+730,Estatus:,Preventa
+730,Metros Cuadrados:,62-172m2
+730,Recámara(s):,2
+730,Baños:,2
+730,Medio Baños:,—
+730,Garage:,1
+730,Año de Construccion:,—
+730,Superficie Total:,—
+730,Entrega:,—
+731,Estatus:,Preventa
+731,Metros Cuadrados:,64-127m2
+731,Recámara(s):,1-3
+731,Baños:,1-2
+731,Medio Baños:,1
+731,Garage:,1-2
+731,Año de Construccion:,2022
+731,Superficie Total:,—
+731,Entrega:,enero 2023
+732,Recámara(s):,2
+732,Baños:,2
+732,Garage:,2
+732,Vendedor(a):,Inmobiliaria
+733,Recámara(s):,2
+733,Baños:,3
+733,Vendedor(a):,Inmobiliaria
+734,Recámara(s):,1
+734,Baños:,1
+734,Medio Baños:,1
+734,Vendedor(a):,Inmobiliaria
+735,Recámara(s):,3
+735,Baños:,2
+735,Garage:,1
+735,Vendedor(a):,Inmobiliaria
+736,Recámara(s):,6+
+736,Baños:,1
+736,Vendedor(a):,Inmobiliaria
+737,Recámara(s):,2
+737,Baños:,2
+737,Medio Baños:,1
+737,Garage:,2
+737,Vendedor(a):,Inmobiliaria
+738,Recámara(s):,1
+738,Baños:,1
+738,Medio Baños:,1
+738,Garage:,1
+738,Vendedor(a):,Inmobiliaria
+739,Recámara(s):,3
+739,Baños:,2
+739,Garage:,1
+739,Vendedor(a):,Inmobiliaria
+740,Recámara(s):,2
+740,Baños:,2
+740,Vendedor(a):,Inmobiliaria
+741,Recámara(s):,2
+741,Baños:,2
+741,Vendedor(a):,Inmobiliaria
+742,Recámara(s):,1
+742,Baños:,2
+742,Vendedor(a):,Inmobiliaria
+743,Recámara(s):,2
+743,Baños:,2
+743,Vendedor(a):,Inmobiliaria
+744,Recámara(s):,2
+744,Baños:,2
+744,Vendedor(a):,Inmobiliaria
+745,Recámara(s):,2
+745,Baños:,2
+745,Vendedor(a):,Inmobiliaria
+746,Recámara(s):,2
+746,Baños:,2
+746,Vendedor(a):,Inmobiliaria
+747,Recámara(s):,2
+747,Baños:,2
+747,Vendedor(a):,Inmobiliaria
+748,Recámara(s):,2
+748,Baños:,2
+748,Vendedor(a):,Inmobiliaria
+749,Recámara(s):,2
+749,Baños:,2
+749,Vendedor(a):,Inmobiliaria
+750,Recámara(s):,1
+750,Baños:,1
+750,Vendedor(a):,Inmobiliaria
+751,Recámara(s):,1
+751,Baños:,1
+751,Vendedor(a):,Inmobiliaria
+752,Estatus:,Preventa
+752,Metros Cuadrados:,62-172m2
+752,Recámara(s):,2
+752,Baños:,2
+752,Medio Baños:,—
+752,Garage:,1
+752,Año de Construccion:,—
+752,Superficie Total:,—
+752,Entrega:,—
+753,Estatus:,Preventa
+753,Metros Cuadrados:,64-127m2
+753,Recámara(s):,1-3
+753,Baños:,1-2
+753,Medio Baños:,1
+753,Garage:,1-2
+753,Año de Construccion:,2022
+753,Superficie Total:,—
+753,Entrega:,enero 2023
+754,Recámara(s):,2
+754,Baños:,2
+754,Vendedor(a):,Inmobiliaria
+755,Recámara(s):,2
+755,Baños:,2
+755,Vendedor(a):,Inmobiliaria
+756,Recámara(s):,2
+756,Baños:,2
+756,Vendedor(a):,Inmobiliaria
+757,Recámara(s):,2
+757,Baños:,2
+757,Vendedor(a):,Inmobiliaria
+758,Recámara(s):,1
+758,Baños:,1
+758,Vendedor(a):,Inmobiliaria
+759,Recámara(s):,2
+759,Baños:,2
+759,Vendedor(a):,Inmobiliaria
+760,Recámara(s):,2
+760,Baños:,2
+760,Vendedor(a):,Inmobiliaria
+761,Recámara(s):,2
+761,Baños:,2
+761,Vendedor(a):,Inmobiliaria
+762,Recámara(s):,2
+762,Baños:,2
+762,Vendedor(a):,Inmobiliaria
+763,Recámara(s):,2
+763,Baños:,2
+763,Vendedor(a):,Inmobiliaria
+764,Recámara(s):,2
+764,Baños:,2
+764,Vendedor(a):,Inmobiliaria
+765,Recámara(s):,1
+765,Baños:,1
+765,Vendedor(a):,Inmobiliaria
+766,Recámara(s):,2
+766,Baños:,2
+766,Vendedor(a):,Inmobiliaria
+767,Recámara(s):,1
+767,Baños:,1
+767,Vendedor(a):,Inmobiliaria
+768,Recámara(s):,2
+768,Baños:,2
+768,Vendedor(a):,Inmobiliaria
+769,Recámara(s):,2
+769,Baños:,2
+769,Vendedor(a):,Inmobiliaria
+770,Recámara(s):,2
+770,Baños:,2
+770,Vendedor(a):,Inmobiliaria
+771,Recámara(s):,2
+771,Baños:,2
+771,Vendedor(a):,Inmobiliaria
+772,Recámara(s):,2
+772,Baños:,2
+772,Vendedor(a):,Inmobiliaria
+773,Recámara(s):,2
+773,Baños:,2
+773,Vendedor(a):,Inmobiliaria
+774,Estatus:,Preventa
+774,Metros Cuadrados:,62-172m2
+774,Recámara(s):,2
+774,Baños:,2
+774,Medio Baños:,—
+774,Garage:,1
+774,Año de Construccion:,—
+774,Superficie Total:,—
+774,Entrega:,—
+775,Estatus:,Preventa
+775,Metros Cuadrados:,64-127m2
+775,Recámara(s):,1-3
+775,Baños:,1-2
+775,Medio Baños:,1
+775,Garage:,1-2
+775,Año de Construccion:,2022
+775,Superficie Total:,—
+775,Entrega:,enero 2023
+776,Recámara(s):,2
+776,Baños:,2
+776,Vendedor(a):,Inmobiliaria
+777,Recámara(s):,2
+777,Baños:,2
+777,Vendedor(a):,Inmobiliaria
+778,Recámara(s):,3
+778,Baños:,2
+778,Vendedor(a):,Inmobiliaria
+779,Recámara(s):,2
+779,Baños:,2
+779,Vendedor(a):,Inmobiliaria
+780,Recámara(s):,2
+780,Baños:,1
+780,Medio Baños:,1
+780,Vendedor(a):,Inmobiliaria
+781,Recámara(s):,2
+781,Baños:,2
+781,Vendedor(a):,Inmobiliaria
+782,Recámara(s):,1
+782,Baños:,1
+782,Vendedor(a):,Inmobiliaria
+783,Recámara(s):,3
+783,Baños:,2
+783,Vendedor(a):,Inmobiliaria
+784,Recámara(s):,2
+784,Baños:,2
+784,Garage:,2
+784,Vendedor(a):,Inmobiliaria
+785,Recámara(s):,1
+785,Baños:,1
+785,Medio Baños:,1
+785,Garage:,1
+785,Vendedor(a):,Inmobiliaria
+786,Recámara(s):,2
+786,Baños:,1
+786,Vendedor(a):,Inmobiliaria
+787,Recámara(s):,2
+787,Baños:,2
+787,Vendedor(a):,Inmobiliaria
+788,Recámara(s):,2
+788,Baños:,2
+788,Vendedor(a):,Inmobiliaria
+789,Recámara(s):,2
+789,Baños:,2
+789,Garage:,1
+789,Vendedor(a):,Inmobiliaria
+790,Recámara(s):,2
+790,Baños:,2
+790,Vendedor(a):,Inmobiliaria
+791,Recámara(s):,2
+791,Baños:,2
+791,Vendedor(a):,Inmobiliaria
+792,Recámara(s):,2
+792,Baños:,2
+792,Vendedor(a):,Inmobiliaria
+793,Recámara(s):,2
+793,Baños:,2
+793,Vendedor(a):,Inmobiliaria
+794,Recámara(s):,1
+794,Baños:,1
+794,Vendedor(a):,Inmobiliaria
+795,Recámara(s):,2
+795,Baños:,2
+795,Vendedor(a):,Inmobiliaria
+796,Estatus:,Preventa
+796,Metros Cuadrados:,62-172m2
+796,Recámara(s):,2
+796,Baños:,2
+796,Medio Baños:,—
+796,Garage:,1
+796,Año de Construccion:,—
+796,Superficie Total:,—
+796,Entrega:,—
+797,Estatus:,Preventa
+797,Metros Cuadrados:,64-127m2
+797,Recámara(s):,1-3
+797,Baños:,1-2
+797,Medio Baños:,1
+797,Garage:,1-2
+797,Año de Construccion:,2022
+797,Superficie Total:,—
+797,Entrega:,enero 2023
+798,Recámara(s):,2
+798,Baños:,2
+798,Garage:,1
+798,Vendedor(a):,Inmobiliaria
+799,Recámara(s):,2
+799,Baños:,3
+799,Vendedor(a):,Inmobiliaria
+800,Recámara(s):,1
+800,Baños:,2
+800,Vendedor(a):,Inmobiliaria
+801,Recámara(s):,1
+801,Baños:,1
+801,Vendedor(a):,Inmobiliaria
+802,Recámara(s):,2
+802,Baños:,1
+802,Vendedor(a):,Inmobiliaria
+803,Recámara(s):,2
+803,Baños:,1
+803,Vendedor(a):,Inmobiliaria
+804,Recámara(s):,2
+804,Baños:,1
+804,Terreno:,80m2
+804,Vendedor(a):,Inmobiliaria
+805,Recámara(s):,2
+805,Baños:,1
+805,Vendedor(a):,Inmobiliaria
+806,Recámara(s):,3
+806,Baños:,2
+806,Vendedor(a):,Inmobiliaria
+807,Recámara(s):,2
+807,Baños:,2
+807,Vendedor(a):,Inmobiliaria
+808,Recámara(s):,2
+808,Baños:,2
+808,Vendedor(a):,Inmobiliaria
+809,Recámara(s):,1
+809,Baños:,2
+809,Vendedor(a):,Inmobiliaria
+810,Recámara(s):,2
+810,Baños:,1
+810,Garage:,1
+810,Vendedor(a):,Inmobiliaria
+811,Recámara(s):,2
+811,Baños:,2
+811,Medio Baños:,1
+811,Garage:,1
+811,Vendedor(a):,Inmobiliaria
+812,Recámara(s):,3
+812,Baños:,4+
+812,Vendedor(a):,Inmobiliaria
+813,Recámara(s):,2
+813,Baños:,2
+813,Vendedor(a):,Inmobiliaria
+814,Recámara(s):,3
+814,Baños:,4+
+814,Vendedor(a):,Inmobiliaria
+815,Recámara(s):,3
+815,Baños:,2
+815,Vendedor(a):,Inmobiliaria
+816,Recámara(s):,2
+816,Baños:,2
+816,Medio Baños:,1
+816,Garage:,2
+816,Vendedor(a):,Inmobiliaria
+817,Recámara(s):,1
+817,Baños:,1
+817,Garage:,1
+817,Vendedor(a):,Inmobiliaria
+818,Estatus:,Preventa
+818,Metros Cuadrados:,62-172m2
+818,Recámara(s):,2
+818,Baños:,2
+818,Medio Baños:,—
+818,Garage:,1
+818,Año de Construccion:,—
+818,Superficie Total:,—
+818,Entrega:,—
+819,Estatus:,Preventa
+819,Metros Cuadrados:,64-127m2
+819,Recámara(s):,1-3
+819,Baños:,1-2
+819,Medio Baños:,1
+819,Garage:,1-2
+819,Año de Construccion:,2022
+819,Superficie Total:,—
+819,Entrega:,enero 2023
+820,Recámara(s):,3
+820,Baños:,2
+820,Vendedor(a):,Inmobiliaria
+821,Recámara(s):,3
+821,Baños:,2
+821,Vendedor(a):,Inmobiliaria
+822,Recámara(s):,3
+822,Baños:,2
+822,Vendedor(a):,Inmobiliaria
+823,Recámara(s):,3
+823,Baños:,2
+823,Vendedor(a):,Inmobiliaria
+824,Recámara(s):,3
+824,Baños:,2
+824,Vendedor(a):,Inmobiliaria
+825,Recámara(s):,3
+825,Baños:,2
+825,Vendedor(a):,Inmobiliaria
+826,Recámara(s):,1
+826,Baños:,2
+826,Vendedor(a):,Inmobiliaria
+827,Recámara(s):,1
+827,Baños:,1
+827,Garage:,1
+827,Vendedor(a):,Inmobiliaria
+828,Recámara(s):,2
+828,Baños:,2
+828,Garage:,1
+828,Vendedor(a):,Inmobiliaria
+829,Recámara(s):,2
+829,Baños:,2
+829,Garage:,1
+829,Vendedor(a):,Inmobiliaria
+830,Recámara(s):,2
+830,Baños:,3
+830,Vendedor(a):,Inmobiliaria
+831,Recámara(s):,2
+831,Baños:,2
+831,Vendedor(a):,Inmobiliaria
+832,Recámara(s):,3
+832,Baños:,3
+832,Vendedor(a):,Inmobiliaria
+833,Recámara(s):,2
+833,Baños:,2
+833,Vendedor(a):,Inmobiliaria
+834,Recámara(s):,2
+834,Baños:,2
+834,Vendedor(a):,Inmobiliaria
+835,Recámara(s):,3
+835,Baños:,3
+835,Vendedor(a):,Inmobiliaria
+836,Recámara(s):,2
+836,Baños:,2
+836,Garage:,2
+836,Vendedor(a):,Inmobiliaria
+837,Recámara(s):,2
+837,Baños:,2
+837,Vendedor(a):,Inmobiliaria
+838,Recámara(s):,3
+838,Baños:,2
+838,Vendedor(a):,Inmobiliaria
+839,Recámara(s):,3
+839,Baños:,2
+839,Vendedor(a):,Inmobiliaria
+840,Estatus:,Preventa
+840,Metros Cuadrados:,62-172m2
+840,Recámara(s):,2
+840,Baños:,2
+840,Medio Baños:,—
+840,Garage:,1
+840,Año de Construccion:,—
+840,Superficie Total:,—
+840,Entrega:,—
+841,Estatus:,Preventa
+841,Metros Cuadrados:,64-127m2
+841,Recámara(s):,1-3
+841,Baños:,1-2
+841,Medio Baños:,1
+841,Garage:,1-2
+841,Año de Construccion:,2022
+841,Superficie Total:,—
+841,Entrega:,enero 2023
+842,Recámara(s):,1
+842,Baños:,1
+842,Vendedor(a):,Inmobiliaria
+843,Recámara(s):,3
+843,Baños:,3
+843,Garage:,2
+843,Terreno:,202m2
+843,Vendedor(a):,Particular
+844,Recámara(s):,1
+844,Baños:,2
+844,Garage:,2
+844,Vendedor(a):,Inmobiliaria
+844,Disponibilidad:,28/01/22
+845,Recámara(s):,4
+845,Baños:,2
+845,Vendedor(a):,Particular
+846,Recámara(s):,2
+846,Baños:,2
+846,Garage:,1
+846,Vendedor(a):,Particular
+847,Recámara(s):,3
+847,Baños:,2
+847,Garage:,1
+847,Terreno:,107m2
+847,Vendedor(a):,Particular
+848,Recámara(s):,2
+848,Baños:,2
+848,Terreno:,101m2
+848,Vendedor(a):,Particular
+848,Disponibilidad:,18/11/21
+849,Recámara(s):,3
+849,Baños:,2
+849,Medio Baños:,1
+849,Garage:,2
+849,Terreno:,150m2
+849,Vendedor(a):,Inmobiliaria
+849,Disponibilidad:,10/02/22
+850,Recámara(s):,1
+850,Baños:,1
+850,Medio Baños:,1
+850,Garage:,2
+850,Terreno:,162m2
+850,Vendedor(a):,Inmobiliaria
+851,Recámara(s):,2
+851,Baños:,2
+851,Garage:,1
+851,Vendedor(a):,Inmobiliaria
+852,Recámara(s):,3
+852,Baños:,2
+852,Garage:,1
+852,Vendedor(a):,Inmobiliaria
+853,Recámara(s):,2
+853,Baños:,2
+853,Vendedor(a):,Inmobiliaria
+854,Recámara(s):,3
+854,Baños:,2
+854,Medio Baños:,1
+854,Vendedor(a):,Inmobiliaria
+855,Recámara(s):,2
+855,Baños:,2
+855,Garage:,1
+855,Terreno:,77m2
+855,Vendedor(a):,Inmobiliaria
+856,Recámara(s):,1
+856,Baños:,1
+856,Terreno:,54m2
+856,Vendedor(a):,Inmobiliaria
+858,Recámara(s):,3
+858,Baños:,3
+858,Garage:,2
+858,Terreno:,143m2
+858,Vendedor(a):,Inmobiliaria
+858,Disponibilidad:,13/12/21
+859,Recámara(s):,2
+859,Baños:,2
+859,Medio Baños:,1
+859,Garage:,2
+859,Terreno:,206m2
+859,Vendedor(a):,Inmobiliaria
+860,Recámara(s):,2
+860,Baños:,1
+860,Vendedor(a):,Inmobiliaria
+861,Recámara(s):,1
+861,Baños:,1
+861,Garage:,1
+861,Terreno:,82m2
+861,Vendedor(a):,Inmobiliaria
+862,Estatus:,Preventa
+862,Metros Cuadrados:,62-172m2
+862,Recámara(s):,2
+862,Baños:,2
+862,Medio Baños:,—
+862,Garage:,1
+862,Año de Construccion:,—
+862,Superficie Total:,—
+862,Entrega:,—
+863,Estatus:,Preventa
+863,Metros Cuadrados:,64-127m2
+863,Recámara(s):,1-3
+863,Baños:,1-2
+863,Medio Baños:,1
+863,Garage:,1-2
+863,Año de Construccion:,2022
+863,Superficie Total:,—
+863,Entrega:,enero 2023
+864,Recámara(s):,2
+864,Baños:,2
+864,Garage:,2
+864,Terreno:,118m2
+864,Vendedor(a):,Inmobiliaria
+865,Recámara(s):,1
+865,Baños:,1
+865,Terreno:,54m2
+865,Vendedor(a):,Inmobiliaria
+866,Recámara(s):,2
+866,Baños:,1
+866,Terreno:,84m2
+866,Vendedor(a):,Inmobiliaria
+867,Recámara(s):,2
+867,Baños:,2
+867,Garage:,1
+867,Terreno:,89m2
+867,Vendedor(a):,Inmobiliaria
+868,Recámara(s):,2
+868,Baños:,2
+868,Garage:,1
+868,Terreno:,89m2
+868,Vendedor(a):,Inmobiliaria
+869,Recámara(s):,2
+869,Baños:,2
+869,Garage:,2
+869,Vendedor(a):,Inmobiliaria
+870,Recámara(s):,2
+870,Baños:,2
+870,Garage:,2
+870,Vendedor(a):,Inmobiliaria
+871,Recámara(s):,2
+871,Baños:,2
+871,Garage:,2
+871,Terreno:,112m2
+871,Vendedor(a):,Inmobiliaria
+872,Recámara(s):,2
+872,Baños:,2
+872,Medio Baños:,1
+872,Garage:,2
+872,Vendedor(a):,Inmobiliaria
+873,Recámara(s):,1
+873,Baños:,1
+873,Garage:,2
+873,Terreno:,115m2
+873,Vendedor(a):,Inmobiliaria
+874,Recámara(s):,2
+874,Baños:,2
+874,Garage:,1
+874,Vendedor(a):,Inmobiliaria
+875,Recámara(s):,2
+875,Baños:,2
+875,Terreno:,89m2
+875,Vendedor(a):,Inmobiliaria
+876,Recámara(s):,2
+876,Baños:,2
+876,Terreno:,71m2
+876,Vendedor(a):,Inmobiliaria
+877,Recámara(s):,2
+877,Baños:,2
+877,Terreno:,79m2
+877,Vendedor(a):,Inmobiliaria
+878,Recámara(s):,2
+878,Baños:,2
+878,Terreno:,141m2
+878,Vendedor(a):,Inmobiliaria
+879,Recámara(s):,2
+879,Baños:,1
+879,Vendedor(a):,Inmobiliaria
+880,Recámara(s):,4
+880,Baños:,3
+880,Garage:,1
+880,Terreno:,190m2
+880,Vendedor(a):,Inmobiliaria
+881,Recámara(s):,2
+881,Baños:,2
+881,Garage:,2
+881,Vendedor(a):,Inmobiliaria
+882,Recámara(s):,2
+882,Baños:,2
+882,Garage:,2
+882,Vendedor(a):,Inmobiliaria
+883,Recámara(s):,2
+883,Baños:,2
+883,Medio Baños:,1
+883,Garage:,2
+883,Vendedor(a):,Inmobiliaria
+884,Estatus:,Preventa
+884,Metros Cuadrados:,62-172m2
+884,Recámara(s):,2
+884,Baños:,2
+884,Medio Baños:,—
+884,Garage:,1
+884,Año de Construccion:,—
+884,Superficie Total:,—
+884,Entrega:,—
+885,Estatus:,Preventa
+885,Metros Cuadrados:,64-127m2
+885,Recámara(s):,1-3
+885,Baños:,1-2
+885,Medio Baños:,1
+885,Garage:,1-2
+885,Año de Construccion:,2022
+885,Superficie Total:,—
+885,Entrega:,enero 2023
+886,Recámara(s):,2
+886,Baños:,2
+886,Terreno:,87m2
+886,Vendedor(a):,Inmobiliaria
+887,Recámara(s):,2
+887,Baños:,2
+887,Terreno:,87m2
+887,Vendedor(a):,Inmobiliaria
+888,Recámara(s):,2
+888,Baños:,2
+888,Garage:,2
+888,Terreno:,112m2
+888,Vendedor(a):,Inmobiliaria
+889,Recámara(s):,2
+889,Baños:,2
+889,Terreno:,172m2
+889,Vendedor(a):,Inmobiliaria
+890,Recámara(s):,2
+890,Baños:,2
+890,Terreno:,154m2
+890,Vendedor(a):,Inmobiliaria
+891,Recámara(s):,2
+891,Baños:,2
+891,Terreno:,115m2
+891,Vendedor(a):,Inmobiliaria
+892,Recámara(s):,2
+892,Baños:,1
+892,Terreno:,104m2
+892,Vendedor(a):,Inmobiliaria
+893,Recámara(s):,2
+893,Baños:,2
+893,Garage:,1
+893,Vendedor(a):,Inmobiliaria
+894,Recámara(s):,2
+894,Baños:,2
+894,Garage:,2
+894,Terreno:,112m2
+894,Vendedor(a):,Inmobiliaria
+895,Recámara(s):,1
+895,Baños:,2
+895,Garage:,2
+895,Terreno:,100m2
+895,Vendedor(a):,Inmobiliaria
+896,Recámara(s):,2
+896,Baños:,2
+896,Terreno:,72m2
+896,Vendedor(a):,Inmobiliaria
+897,Recámara(s):,3
+897,Baños:,1
+897,Vendedor(a):,Inmobiliaria
+898,Recámara(s):,3
+898,Baños:,2
+898,Medio Baños:,1
+898,Garage:,2
+898,Terreno:,95m2
+898,Vendedor(a):,Inmobiliaria
+899,Recámara(s):,3
+899,Baños:,2
+899,Medio Baños:,1
+899,Garage:,2
+899,Terreno:,120m2
+899,Vendedor(a):,Inmobiliaria
+900,Recámara(s):,2
+900,Baños:,2
+900,Vendedor(a):,Inmobiliaria
+901,Recámara(s):,3
+901,Baños:,2
+901,Garage:,2
+901,Terreno:,121m2
+901,Vendedor(a):,Inmobiliaria
+902,Recámara(s):,2
+902,Baños:,2
+902,Garage:,1
+902,Terreno:,131m2
+902,Vendedor(a):,Inmobiliaria
+903,Recámara(s):,1
+903,Baños:,2
+903,Garage:,2
+903,Vendedor(a):,Inmobiliaria
+904,Recámara(s):,2
+904,Baños:,2
+904,Medio Baños:,1
+904,Garage:,2
+904,Vendedor(a):,Inmobiliaria
+905,Recámara(s):,2
+905,Baños:,2
+905,Terreno:,106m2
+905,Vendedor(a):,Inmobiliaria
+906,Estatus:,Preventa
+906,Metros Cuadrados:,62-172m2
+906,Recámara(s):,2
+906,Baños:,2
+906,Medio Baños:,—
+906,Garage:,1
+906,Año de Construccion:,—
+906,Superficie Total:,—
+906,Entrega:,—
+907,Estatus:,Preventa
+907,Metros Cuadrados:,64-127m2
+907,Recámara(s):,1-3
+907,Baños:,1-2
+907,Medio Baños:,1
+907,Garage:,1-2
+907,Año de Construccion:,2022
+907,Superficie Total:,—
+907,Entrega:,enero 2023
+908,Recámara(s):,3
+908,Baños:,2
+908,Terreno:,89m2
+908,Vendedor(a):,Inmobiliaria
+909,Recámara(s):,2
+909,Baños:,2
+909,Terreno:,131m2
+909,Vendedor(a):,Inmobiliaria
+910,Recámara(s):,2
+910,Baños:,2
+910,Terreno:,118m2
+910,Vendedor(a):,Inmobiliaria
+911,Recámara(s):,3
+911,Baños:,2
+911,Terreno:,131m2
+911,Vendedor(a):,Inmobiliaria
+912,Recámara(s):,2
+912,Baños:,2
+912,Terreno:,179m2
+912,Vendedor(a):,Inmobiliaria
+913,Recámara(s):,2
+913,Baños:,2
+913,Terreno:,184m2
+913,Vendedor(a):,Inmobiliaria
+914,Recámara(s):,2
+914,Baños:,2
+914,Terreno:,76m2
+914,Vendedor(a):,Inmobiliaria
+915,Recámara(s):,2
+915,Baños:,2
+915,Terreno:,83m2
+915,Vendedor(a):,Inmobiliaria
+916,Recámara(s):,3
+916,Baños:,2
+916,Terreno:,93m2
+916,Vendedor(a):,Inmobiliaria
+917,Recámara(s):,3
+917,Baños:,2
+917,Terreno:,175m2
+917,Vendedor(a):,Inmobiliaria
+918,Recámara(s):,2
+918,Baños:,2
+918,Terreno:,92m2
+918,Vendedor(a):,Inmobiliaria
+919,Recámara(s):,2
+919,Baños:,2
+919,Medio Baños:,1
+919,Garage:,2
+919,Terreno:,164m2
+920,Recámara(s):,1
+920,Baños:,1
+920,Terreno:,70m2
+920,Vendedor(a):,Inmobiliaria
+921,Recámara(s):,2
+921,Baños:,2
+921,Garage:,2
+921,Terreno:,122m2
+921,Vendedor(a):,Inmobiliaria
+922,Recámara(s):,1
+922,Baños:,2
+922,Garage:,2
+922,Vendedor(a):,Inmobiliaria
+923,Recámara(s):,2
+923,Baños:,2
+923,Medio Baños:,1
+923,Garage:,2
+923,Vendedor(a):,Inmobiliaria
+924,Recámara(s):,2
+924,Baños:,2
+924,Garage:,2
+924,Vendedor(a):,Inmobiliaria
+925,Recámara(s):,3
+925,Baños:,2
+925,Garage:,2
+925,Vendedor(a):,Inmobiliaria
+926,Recámara(s):,2
+926,Baños:,2
+926,Garage:,2
+926,Vendedor(a):,Inmobiliaria
+927,Recámara(s):,1
+927,Baños:,1
+927,Garage:,1
+927,Vendedor(a):,Inmobiliaria
+928,Estatus:,Preventa
+928,Metros Cuadrados:,62-172m2
+928,Recámara(s):,2
+928,Baños:,2
+928,Medio Baños:,—
+928,Garage:,1
+928,Año de Construccion:,—
+928,Superficie Total:,—
+928,Entrega:,—
+929,Estatus:,Preventa
+929,Metros Cuadrados:,64-127m2
+929,Recámara(s):,1-3
+929,Baños:,1-2
+929,Medio Baños:,1
+929,Garage:,1-2
+929,Año de Construccion:,2022
+929,Superficie Total:,—
+929,Entrega:,enero 2023
+930,Recámara(s):,2
+930,Baños:,2
+930,Garage:,1
+930,Terreno:,112m2
+930,Vendedor(a):,Inmobiliaria
+931,Recámara(s):,3
+931,Baños:,2
+931,Garage:,2
+931,Terreno:,95m2
+931,Vendedor(a):,Inmobiliaria
+932,Recámara(s):,1
+932,Baños:,1
+932,Garage:,1
+932,Vendedor(a):,Inmobiliaria
+933,Recámara(s):,2
+933,Baños:,2
+933,Medio Baños:,1
+933,Garage:,2
+933,Terreno:,122m2
+933,Vendedor(a):,Inmobiliaria
+934,Recámara(s):,2
+934,Baños:,2
+934,Garage:,1
+934,Vendedor(a):,Inmobiliaria
+935,Recámara(s):,3
+935,Baños:,2
+935,Garage:,2
+935,Terreno:,143m2
+935,Vendedor(a):,Inmobiliaria
+936,Recámara(s):,2
+936,Baños:,2
+936,Medio Baños:,1
+936,Garage:,2
+936,Terreno:,160m2
+936,Vendedor(a):,Inmobiliaria
+937,Recámara(s):,2
+937,Baños:,1
+937,Medio Baños:,1
+937,Garage:,1
+937,Terreno:,76m2
+937,Vendedor(a):,Inmobiliaria
+938,Recámara(s):,2
+938,Baños:,2
+938,Garage:,1
+938,Terreno:,100m2
+938,Vendedor(a):,Inmobiliaria
+939,Recámara(s):,3
+939,Baños:,3
+939,Terreno:,234m2
+939,Vendedor(a):,Inmobiliaria
+940,Recámara(s):,2
+940,Baños:,2
+940,Garage:,1
+940,Vendedor(a):,Inmobiliaria
+941,Recámara(s):,1
+941,Baños:,1
+941,Medio Baños:,1
+941,Garage:,1
+941,Vendedor(a):,Inmobiliaria
+942,Recámara(s):,2
+942,Baños:,2
+942,Garage:,2
+942,Terreno:,141m2
+942,Vendedor(a):,Inmobiliaria
+943,Recámara(s):,2
+943,Baños:,2
+943,Garage:,1
+943,Terreno:,83m2
+943,Vendedor(a):,Inmobiliaria
+944,Recámara(s):,2
+944,Baños:,2
+944,Terreno:,92m2
+944,Vendedor(a):,Inmobiliaria
+945,Recámara(s):,2
+945,Baños:,3
+945,Terreno:,106m2
+945,Vendedor(a):,Inmobiliaria
+946,Recámara(s):,2
+946,Baños:,2
+946,Terreno:,90m2
+946,Vendedor(a):,Inmobiliaria
+947,Recámara(s):,2
+947,Baños:,2
+947,Terreno:,61m2
+947,Vendedor(a):,Inmobiliaria
+948,Recámara(s):,2
+948,Baños:,2
+948,Terreno:,75m2
+948,Vendedor(a):,Inmobiliaria
+949,Recámara(s):,2
+949,Baños:,2
+949,Terreno:,62m2
+949,Vendedor(a):,Inmobiliaria
+950,Estatus:,Preventa
+950,Metros Cuadrados:,62-172m2
+950,Recámara(s):,2
+950,Baños:,2
+950,Medio Baños:,—
+950,Garage:,1
+950,Año de Construccion:,—
+950,Superficie Total:,—
+950,Entrega:,—
+951,Estatus:,Preventa
+951,Metros Cuadrados:,64-127m2
+951,Recámara(s):,1-3
+951,Baños:,1-2
+951,Medio Baños:,1
+951,Garage:,1-2
+951,Año de Construccion:,2022
+951,Superficie Total:,—
+951,Entrega:,enero 2023
+952,Recámara(s):,2
+952,Baños:,2
+952,Terreno:,70m2
+952,Vendedor(a):,Inmobiliaria
+953,Recámara(s):,1
+953,Baños:,1
+953,Garage:,1
+953,Terreno:,45m2
+953,Vendedor(a):,Inmobiliaria
+954,Recámara(s):,2
+954,Baños:,2
+954,Vendedor(a):,Inmobiliaria
+955,Recámara(s):,2
+955,Baños:,3
+955,Garage:,1
+955,Vendedor(a):,Inmobiliaria
+956,Recámara(s):,1
+956,Baños:,1
+956,Garage:,1
+956,Terreno:,80m2
+956,Vendedor(a):,Inmobiliaria
+957,Recámara(s):,3
+957,Baños:,2
+957,Medio Baños:,1
+957,Garage:,2
+957,Terreno:,120m2
+957,Vendedor(a):,Inmobiliaria
+958,Recámara(s):,3
+958,Baños:,4+
+958,Medio Baños:,1
+958,Garage:,2
+958,Terreno:,281m2
+958,Vendedor(a):,Inmobiliaria
+959,Recámara(s):,3
+959,Baños:,2
+959,Garage:,2
+959,Vendedor(a):,Inmobiliaria
+960,Recámara(s):,2
+960,Baños:,2
+960,Vendedor(a):,Inmobiliaria
+961,Recámara(s):,2
+961,Baños:,2
+961,Garage:,1
+961,Terreno:,85m2
+961,Vendedor(a):,Inmobiliaria
+962,Recámara(s):,2
+962,Baños:,2
+962,Garage:,2
+962,Terreno:,74m2
+962,Vendedor(a):,Inmobiliaria
+963,Recámara(s):,3
+963,Baños:,2
+963,Garage:,2
+963,Terreno:,98m2
+963,Vendedor(a):,Inmobiliaria
+964,Recámara(s):,2
+964,Baños:,2
+964,Garage:,1
+964,Vendedor(a):,Inmobiliaria
+965,Recámara(s):,3
+965,Baños:,3
+965,Garage:,1
+965,Vendedor(a):,Inmobiliaria
+966,Recámara(s):,3
+966,Baños:,2
+966,Garage:,2
+966,Terreno:,120m2
+966,Vendedor(a):,Inmobiliaria
+967,Recámara(s):,2
+967,Baños:,2
+967,Garage:,2
+967,Terreno:,154m2
+967,Vendedor(a):,Inmobiliaria
+968,Recámara(s):,3
+968,Baños:,2
+968,Garage:,1
+968,Terreno:,150m2
+968,Vendedor(a):,Inmobiliaria
+969,Recámara(s):,2
+969,Baños:,2
+969,Terreno:,128m2
+969,Vendedor(a):,Inmobiliaria
+970,Recámara(s):,2
+970,Baños:,1
+970,Garage:,1
+970,Vendedor(a):,Inmobiliaria
+971,Recámara(s):,3
+971,Baños:,2
+971,Garage:,2
+971,Vendedor(a):,Inmobiliaria
+972,Estatus:,Preventa
+972,Metros Cuadrados:,62-172m2
+972,Recámara(s):,2
+972,Baños:,2
+972,Medio Baños:,—
+972,Garage:,1
+972,Año de Construccion:,—
+972,Superficie Total:,—
+972,Entrega:,—
+973,Estatus:,Preventa
+973,Metros Cuadrados:,64-127m2
+973,Recámara(s):,1-3
+973,Baños:,1-2
+973,Medio Baños:,1
+973,Garage:,1-2
+973,Año de Construccion:,2022
+973,Superficie Total:,—
+973,Entrega:,enero 2023
+974,Recámara(s):,4
+974,Baños:,3
+974,Medio Baños:,1
+974,Garage:,1
+974,Vendedor(a):,Inmobiliaria
+975,Recámara(s):,2
+975,Baños:,4+
+975,Vendedor(a):,Inmobiliaria
+976,Recámara(s):,1
+976,Baños:,1
+976,Vendedor(a):,Inmobiliaria
+977,Recámara(s):,3
+977,Baños:,2
+977,Garage:,1
+977,Vendedor(a):,Inmobiliaria
+978,Recámara(s):,1
+978,Baños:,1
+978,Garage:,1
+978,Vendedor(a):,Inmobiliaria
+979,Recámara(s):,2
+979,Baños:,2
+979,Garage:,2
+979,Terreno:,118m2
+979,Vendedor(a):,Inmobiliaria
+980,Recámara(s):,3
+980,Baños:,2
+980,Medio Baños:,1
+980,Garage:,2
+980,Terreno:,127m2
+980,Vendedor(a):,Inmobiliaria
+981,Recámara(s):,2
+981,Baños:,2
+981,Garage:,1
+981,Terreno:,100m2
+981,Vendedor(a):,Inmobiliaria
+982,Recámara(s):,2
+982,Baños:,2
+982,Garage:,1
+982,Terreno:,71m2
+982,Vendedor(a):,Inmobiliaria
+983,Recámara(s):,2
+983,Baños:,2
+983,Garage:,1
+983,Terreno:,67m2
+983,Vendedor(a):,Inmobiliaria
+984,Recámara(s):,2
+984,Baños:,2
+984,Garage:,1
+984,Terreno:,64m2
+984,Vendedor(a):,Inmobiliaria
+985,Recámara(s):,1
+985,Baños:,1
+985,Medio Baños:,1
+985,Garage:,1
+985,Terreno:,65m2
+985,Vendedor(a):,Inmobiliaria
+986,Recámara(s):,2
+986,Baños:,2
+986,Medio Baños:,1
+986,Garage:,2
+986,Terreno:,115m2
+986,Vendedor(a):,Inmobiliaria
+987,Recámara(s):,3
+987,Baños:,2
+987,Garage:,2
+987,Terreno:,121m2
+988,Recámara(s):,2
+988,Baños:,2
+988,Medio Baños:,1
+988,Terreno:,165m2
+988,Vendedor(a):,Inmobiliaria
+989,Recámara(s):,2
+989,Baños:,2
+989,Terreno:,112m2
+989,Vendedor(a):,Inmobiliaria
+990,Recámara(s):,2
+990,Baños:,2
+990,Medio Baños:,1
+990,Terreno:,112m2
+990,Vendedor(a):,Inmobiliaria
+991,Recámara(s):,1
+991,Baños:,2
+991,Terreno:,100m2
+991,Vendedor(a):,Inmobiliaria
+992,Recámara(s):,2
+992,Baños:,2
+992,Terreno:,86m2
+992,Vendedor(a):,Inmobiliaria
+993,Recámara(s):,3
+993,Baños:,2
+993,Medio Baños:,1
+993,Terreno:,146m2
+993,Vendedor(a):,Inmobiliaria
+994,Estatus:,Preventa
+994,Metros Cuadrados:,62-172m2
+994,Recámara(s):,2
+994,Baños:,2
+994,Medio Baños:,—
+994,Garage:,1
+994,Año de Construccion:,—
+994,Superficie Total:,—
+994,Entrega:,—
+995,Estatus:,Preventa
+995,Metros Cuadrados:,64-127m2
+995,Recámara(s):,1-3
+995,Baños:,1-2
+995,Medio Baños:,1
+995,Garage:,1-2
+995,Año de Construccion:,2022
+995,Superficie Total:,—
+995,Entrega:,enero 2023
+996,Recámara(s):,3
+996,Baños:,2
+996,Medio Baños:,1
+996,Terreno:,137m2
+996,Vendedor(a):,Inmobiliaria
+997,Recámara(s):,3
+997,Baños:,2
+997,Medio Baños:,1
+997,Terreno:,123m2
+997,Vendedor(a):,Inmobiliaria
+998,Recámara(s):,2
+998,Baños:,2
+998,Terreno:,106m2
+998,Vendedor(a):,Inmobiliaria
+999,Recámara(s):,2
+999,Baños:,2
+999,Terreno:,79m2
+999,Vendedor(a):,Inmobiliaria
+1000,Recámara(s):,3
+1000,Baños:,2
+1000,Medio Baños:,1
+1000,Terreno:,133m2
+1000,Vendedor(a):,Inmobiliaria
+1001,Recámara(s):,2
+1001,Baños:,2
+1001,Terreno:,77m2
+1001,Vendedor(a):,Inmobiliaria
+1002,Recámara(s):,2
+1002,Baños:,2
+1002,Terreno:,106m2
+1002,Vendedor(a):,Inmobiliaria
+1003,Recámara(s):,2
+1003,Baños:,2
+1003,Terreno:,91m2
+1003,Vendedor(a):,Inmobiliaria
+1004,Recámara(s):,3
+1004,Baños:,2
+1004,Medio Baños:,1
+1004,Terreno:,136m2
+1004,Vendedor(a):,Inmobiliaria
+1005,Recámara(s):,2
+1005,Baños:,2
+1005,Terreno:,67m2
+1005,Vendedor(a):,Inmobiliaria
+1006,Recámara(s):,4
+1006,Baños:,4+
+1006,Medio Baños:,1
+1006,Terreno:,350m2
+1006,Vendedor(a):,Inmobiliaria
+1007,Recámara(s):,2
+1007,Baños:,2
+1007,Terreno:,73m2
+1007,Vendedor(a):,Inmobiliaria
+1008,Recámara(s):,2
+1008,Baños:,2
+1008,Terreno:,122m2
+1008,Vendedor(a):,Inmobiliaria
+1009,Recámara(s):,3
+1009,Baños:,2
+1009,Medio Baños:,1
+1009,Terreno:,144m2
+1009,Vendedor(a):,Inmobiliaria
+1010,Recámara(s):,2
+1010,Baños:,2
+1010,Terreno:,120m2
+1010,Vendedor(a):,Inmobiliaria
+1011,Recámara(s):,2
+1011,Baños:,2
+1011,Vendedor(a):,Inmobiliaria
+1012,Recámara(s):,3
+1012,Baños:,3
+1012,Medio Baños:,1
+1012,Garage:,1
+1012,Vendedor(a):,Inmobiliaria
+1013,Recámara(s):,2
+1013,Baños:,2
+1013,Garage:,1
+1013,Vendedor(a):,Inmobiliaria
+1014,Recámara(s):,1
+1014,Baños:,2
+1014,Garage:,2
+1014,Vendedor(a):,Inmobiliaria
+1015,Recámara(s):,2
+1015,Baños:,2
+1015,Medio Baños:,1
+1015,Garage:,2
+1015,Vendedor(a):,Inmobiliaria
+1016,Estatus:,Preventa
+1016,Metros Cuadrados:,62-172m2
+1016,Recámara(s):,2
+1016,Baños:,2
+1016,Medio Baños:,—
+1016,Garage:,1
+1016,Año de Construccion:,—
+1016,Superficie Total:,—
+1016,Entrega:,—
+1017,Estatus:,Preventa
+1017,Metros Cuadrados:,64-127m2
+1017,Recámara(s):,1-3
+1017,Baños:,1-2
+1017,Medio Baños:,1
+1017,Garage:,1-2
+1017,Año de Construccion:,2022
+1017,Superficie Total:,—
+1017,Entrega:,enero 2023
+1018,Recámara(s):,2
+1018,Baños:,2
+1018,Medio Baños:,1
+1018,Garage:,3
+1018,Vendedor(a):,Inmobiliaria
+1019,Recámara(s):,2
+1019,Baños:,1
+1019,Medio Baños:,1
+1019,Terreno:,76m2
+1019,Vendedor(a):,Inmobiliaria
+1020,Recámara(s):,2
+1020,Baños:,3
+1020,Garage:,2
+1020,Vendedor(a):,Inmobiliaria
+1021,Recámara(s):,2
+1021,Baños:,3
+1021,Garage:,2
+1021,Vendedor(a):,Inmobiliaria
+1022,Recámara(s):,2
+1022,Baños:,3
+1022,Garage:,1
+1022,Vendedor(a):,Inmobiliaria
+1023,Recámara(s):,2
+1023,Baños:,1
+1023,Terreno:,112m2
+1023,Vendedor(a):,Inmobiliaria
+1024,Recámara(s):,2
+1024,Baños:,1
+1024,Terreno:,90m2
+1024,Vendedor(a):,Inmobiliaria
+1025,Recámara(s):,1
+1025,Baños:,2
+1025,Garage:,2
+1025,Terreno:,93m2
+1025,Vendedor(a):,Inmobiliaria
+1026,Recámara(s):,2
+1026,Baños:,2
+1026,Garage:,1
+1026,Terreno:,114m2
+1026,Vendedor(a):,Inmobiliaria
+1027,Recámara(s):,1
+1027,Baños:,2
+1027,Garage:,1
+1027,Terreno:,145m2
+1027,Vendedor(a):,Inmobiliaria
+1028,Recámara(s):,3
+1028,Baños:,3
+1028,Garage:,1
+1028,Terreno:,250m2
+1028,Vendedor(a):,Inmobiliaria
+1029,Recámara(s):,2
+1029,Baños:,2
+1029,Garage:,2
+1029,Terreno:,120m2
+1029,Vendedor(a):,Inmobiliaria
+1030,Recámara(s):,2
+1030,Baños:,2
+1030,Garage:,2
+1030,Terreno:,90m2
+1030,Vendedor(a):,Inmobiliaria
+1031,Recámara(s):,2
+1031,Baños:,2
+1031,Garage:,1
+1031,Terreno:,94m2
+1031,Vendedor(a):,Inmobiliaria
+1032,Recámara(s):,1
+1032,Baños:,1
+1032,Garage:,1
+1032,Terreno:,66m2
+1032,Vendedor(a):,Inmobiliaria
+1033,Recámara(s):,2
+1033,Baños:,2
+1033,Garage:,1
+1033,Terreno:,114m2
+1033,Vendedor(a):,Inmobiliaria
+1034,Recámara(s):,3
+1034,Baños:,2
+1034,Garage:,2
+1034,Terreno:,120m2
+1034,Vendedor(a):,Inmobiliaria
+1035,Recámara(s):,1
+1035,Baños:,2
+1035,Garage:,2
+1035,Terreno:,100m2
+1035,Vendedor(a):,Inmobiliaria
+1036,Recámara(s):,3
+1036,Baños:,1
+1036,Garage:,1
+1036,Terreno:,250m2
+1036,Vendedor(a):,Inmobiliaria
+1037,Recámara(s):,2
+1037,Baños:,2
+1037,Garage:,1
+1037,Terreno:,111m2
+1037,Vendedor(a):,Inmobiliaria
+1038,Estatus:,Preventa
+1038,Metros Cuadrados:,62-172m2
+1038,Recámara(s):,2
+1038,Baños:,2
+1038,Medio Baños:,—
+1038,Garage:,1
+1038,Año de Construccion:,—
+1038,Superficie Total:,—
+1038,Entrega:,—
+1039,Estatus:,Preventa
+1039,Metros Cuadrados:,64-127m2
+1039,Recámara(s):,1-3
+1039,Baños:,1-2
+1039,Medio Baños:,1
+1039,Garage:,1-2
+1039,Año de Construccion:,2022
+1039,Superficie Total:,—
+1039,Entrega:,enero 2023
+1040,Recámara(s):,2
+1040,Baños:,2
+1040,Garage:,2
+1040,Terreno:,112m2
+1040,Vendedor(a):,Inmobiliaria
+1041,Recámara(s):,4
+1041,Garage:,3
+1041,Terreno:,309m2
+1041,Vendedor(a):,Inmobiliaria
+1042,Recámara(s):,3
+1042,Baños:,3
+1042,Garage:,2
+1042,Terreno:,180m2
+1042,Vendedor(a):,Inmobiliaria
+1043,Recámara(s):,2
+1043,Baños:,2
+1043,Terreno:,95m2
+1043,Vendedor(a):,Inmobiliaria
+1044,Recámara(s):,3
+1044,Baños:,3
+1044,Garage:,1
+1044,Terreno:,154m2
+1044,Vendedor(a):,Inmobiliaria
+1045,Recámara(s):,3
+1045,Baños:,3
+1045,Garage:,2
+1045,Terreno:,263m2
+1045,Vendedor(a):,Inmobiliaria
+1046,Recámara(s):,2
+1046,Baños:,2
+1046,Garage:,2
+1046,Terreno:,183m2
+1046,Vendedor(a):,Inmobiliaria
+1047,Recámara(s):,1
+1047,Baños:,2
+1047,Garage:,2
+1047,Terreno:,128m2
+1047,Vendedor(a):,Inmobiliaria
+1048,Recámara(s):,2
+1048,Baños:,2
+1048,Garage:,2
+1048,Terreno:,71m2
+1048,Vendedor(a):,Inmobiliaria
+1049,Recámara(s):,2
+1049,Baños:,2
+1049,Garage:,1
+1049,Terreno:,90m2
+1049,Vendedor(a):,Inmobiliaria
+1050,Recámara(s):,2
+1050,Baños:,2
+1050,Garage:,1
+1050,Terreno:,70m2
+1050,Vendedor(a):,Inmobiliaria
+1051,Recámara(s):,3
+1051,Baños:,3
+1051,Garage:,2
+1051,Terreno:,180m2
+1051,Vendedor(a):,Inmobiliaria
+1052,Recámara(s):,2
+1052,Baños:,3
+1052,Garage:,2
+1052,Terreno:,140m2
+1052,Vendedor(a):,Inmobiliaria
+1053,Recámara(s):,3
+1053,Baños:,2
+1053,Garage:,2
+1053,Terreno:,70m2
+1053,Vendedor(a):,Inmobiliaria
+1054,Recámara(s):,2
+1054,Baños:,1
+1054,Terreno:,92m2
+1054,Vendedor(a):,Inmobiliaria
+1055,Recámara(s):,2
+1055,Baños:,2
+1055,Garage:,1
+1055,Terreno:,99m2
+1055,Vendedor(a):,Inmobiliaria
+1056,Recámara(s):,2
+1056,Baños:,2
+1056,Garage:,2
+1056,Terreno:,90m2
+1056,Vendedor(a):,Inmobiliaria
+1057,Recámara(s):,2
+1057,Baños:,2
+1057,Garage:,2
+1057,Terreno:,85m2
+1057,Vendedor(a):,Inmobiliaria
+1058,Recámara(s):,1
+1058,Baños:,1
+1058,Garage:,1
+1058,Terreno:,50m2
+1058,Vendedor(a):,Inmobiliaria
+1059,Recámara(s):,2
+1059,Baños:,1
+1059,Terreno:,80m2
+1059,Vendedor(a):,Inmobiliaria
+1060,Estatus:,Preventa
+1060,Metros Cuadrados:,62-172m2
+1060,Recámara(s):,2
+1060,Baños:,2
+1060,Medio Baños:,—
+1060,Garage:,1
+1060,Año de Construccion:,—
+1060,Superficie Total:,—
+1060,Entrega:,—
+1061,Estatus:,Preventa
+1061,Metros Cuadrados:,64-127m2
+1061,Recámara(s):,1-3
+1061,Baños:,1-2
+1061,Medio Baños:,1
+1061,Garage:,1-2
+1061,Año de Construccion:,2022
+1061,Superficie Total:,—
+1061,Entrega:,enero 2023
+1062,Recámara(s):,2
+1062,Baños:,1
+1062,Garage:,1
+1062,Terreno:,65m2
+1062,Vendedor(a):,Inmobiliaria
+1063,Recámara(s):,3
+1063,Baños:,2
+1063,Garage:,1
+1063,Terreno:,183m2
+1063,Vendedor(a):,Inmobiliaria
+1064,Recámara(s):,3
+1064,Baños:,3
+1064,Garage:,1
+1064,Terreno:,154m2
+1064,Vendedor(a):,Inmobiliaria
+1065,Recámara(s):,1
+1065,Baños:,2
+1065,Garage:,1
+1065,Terreno:,75m2
+1065,Vendedor(a):,Inmobiliaria
+1066,Recámara(s):,3
+1066,Baños:,3
+1066,Garage:,1
+1066,Terreno:,190m2
+1066,Vendedor(a):,Inmobiliaria
+1067,Recámara(s):,2
+1067,Baños:,2
+1067,Garage:,1
+1067,Terreno:,120m2
+1067,Vendedor(a):,Inmobiliaria
+1068,Recámara(s):,2
+1068,Baños:,1
+1068,Terreno:,56m2
+1068,Vendedor(a):,Inmobiliaria
+1069,Recámara(s):,3
+1069,Baños:,1
+1069,Terreno:,140m2
+1069,Vendedor(a):,Inmobiliaria
+1070,Recámara(s):,2
+1070,Baños:,2
+1070,Garage:,2
+1070,Terreno:,122m2
+1070,Vendedor(a):,Inmobiliaria
+1071,Recámara(s):,1
+1071,Baños:,2
+1071,Garage:,2
+1071,Terreno:,100m2
+1071,Vendedor(a):,Inmobiliaria
+1072,Recámara(s):,2
+1072,Baños:,2
+1072,Garage:,2
+1072,Terreno:,110m2
+1072,Vendedor(a):,Inmobiliaria
+1073,Recámara(s):,3
+1073,Baños:,2
+1073,Garage:,2
+1073,Terreno:,117m2
+1073,Vendedor(a):,Inmobiliaria
+1074,Recámara(s):,2
+1074,Baños:,2
+1074,Garage:,1
+1074,Terreno:,90m2
+1074,Vendedor(a):,Inmobiliaria
+1075,Recámara(s):,3
+1075,Baños:,2
+1075,Garage:,2
+1075,Terreno:,273m2
+1075,Vendedor(a):,Inmobiliaria
+1076,Recámara(s):,2
+1076,Baños:,2
+1076,Garage:,1
+1076,Terreno:,111m2
+1076,Vendedor(a):,Inmobiliaria
+1077,Recámara(s):,2
+1077,Baños:,1
+1077,Terreno:,130m2
+1077,Vendedor(a):,Inmobiliaria
+1078,Recámara(s):,2
+1078,Baños:,2
+1078,Garage:,2
+1078,Terreno:,97m2
+1078,Vendedor(a):,Inmobiliaria
+1079,Recámara(s):,3
+1079,Baños:,2
+1079,Garage:,1
+1079,Terreno:,115m2
+1079,Vendedor(a):,Inmobiliaria
+1080,Recámara(s):,3
+1080,Baños:,2
+1080,Garage:,2
+1080,Terreno:,117m2
+1080,Vendedor(a):,Inmobiliaria
+1081,Recámara(s):,2
+1081,Baños:,2
+1081,Garage:,1
+1081,Terreno:,90m2
+1081,Vendedor(a):,Inmobiliaria
+1082,Estatus:,Preventa
+1082,Metros Cuadrados:,62-172m2
+1082,Recámara(s):,2
+1082,Baños:,2
+1082,Medio Baños:,—
+1082,Garage:,1
+1082,Año de Construccion:,—
+1082,Superficie Total:,—
+1082,Entrega:,—
+1083,Estatus:,Preventa
+1083,Metros Cuadrados:,64-127m2
+1083,Recámara(s):,1-3
+1083,Baños:,1-2
+1083,Medio Baños:,1
+1083,Garage:,1-2
+1083,Año de Construccion:,2022
+1083,Superficie Total:,—
+1083,Entrega:,enero 2023
+1084,Recámara(s):,2
+1084,Baños:,2
+1084,Garage:,1
+1084,Terreno:,71m2
+1084,Vendedor(a):,Inmobiliaria
+1085,Recámara(s):,1
+1085,Baños:,1
+1085,Terreno:,58m2
+1085,Vendedor(a):,Inmobiliaria
+1086,Recámara(s):,2
+1086,Baños:,2
+1086,Garage:,2
+1086,Terreno:,123m2
+1086,Vendedor(a):,Inmobiliaria
+1087,Recámara(s):,1
+1087,Baños:,1
+1087,Garage:,1
+1087,Terreno:,54m2
+1087,Vendedor(a):,Inmobiliaria
+1088,Recámara(s):,1
+1088,Baños:,1
+1088,Garage:,1
+1088,Terreno:,44m2
+1088,Vendedor(a):,Inmobiliaria
+1089,Recámara(s):,2
+1089,Baños:,2
+1089,Terreno:,64m2
+1089,Vendedor(a):,Inmobiliaria
+1090,Recámara(s):,2
+1090,Baños:,1
+1090,Terreno:,86m2
+1090,Vendedor(a):,Inmobiliaria
+1091,Recámara(s):,2
+1091,Baños:,2
+1091,Garage:,2
+1091,Terreno:,125m2
+1091,Vendedor(a):,Inmobiliaria
+1092,Recámara(s):,3
+1092,Baños:,2
+1092,Garage:,2
+1092,Terreno:,192m2
+1092,Vendedor(a):,Inmobiliaria
+1093,Recámara(s):,3
+1093,Baños:,2
+1093,Terreno:,116m2
+1093,Vendedor(a):,Inmobiliaria
+1094,Recámara(s):,2
+1094,Baños:,2
+1094,Garage:,2
+1094,Terreno:,165m2
+1094,Vendedor(a):,Inmobiliaria
+1095,Recámara(s):,3
+1095,Baños:,2
+1095,Garage:,2
+1095,Terreno:,117m2
+1095,Vendedor(a):,Inmobiliaria
+1096,Recámara(s):,3
+1096,Baños:,3
+1096,Garage:,1
+1096,Terreno:,156m2
+1096,Vendedor(a):,Inmobiliaria
+1097,Recámara(s):,2
+1097,Baños:,2
+1097,Garage:,2
+1097,Terreno:,128m2
+1097,Vendedor(a):,Inmobiliaria
+1098,Recámara(s):,3
+1098,Baños:,3
+1098,Garage:,2
+1098,Terreno:,141m2
+1098,Vendedor(a):,Inmobiliaria
+1099,Recámara(s):,2
+1099,Baños:,2
+1099,Garage:,1
+1099,Terreno:,73m2
+1099,Vendedor(a):,Inmobiliaria
+1100,Recámara(s):,2
+1100,Baños:,1
+1100,Vendedor(a):,Inmobiliaria
+1101,Recámara(s):,3
+1101,Baños:,3
+1101,Garage:,2
+1101,Terreno:,192m2
+1101,Vendedor(a):,Inmobiliaria
+1102,Recámara(s):,2
+1102,Baños:,2
+1102,Vendedor(a):,Inmobiliaria
+1103,Recámara(s):,3
+1103,Baños:,2
+1103,Medio Baños:,2
+1103,Garage:,2
+1103,Vendedor(a):,Inmobiliaria
